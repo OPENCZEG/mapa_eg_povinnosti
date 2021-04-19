@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provádět autorizovanou konverzi z moci úřední"
+    id="mapa-povinnosti-P469"
+    documentation="Konverzi z moci úřední provádějí orgány veřejné moci pro výkon své působnosti.">
+  <properties
+      key="Určuje"
+      value="§ 23 odst. 2 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 23 odst. 2 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

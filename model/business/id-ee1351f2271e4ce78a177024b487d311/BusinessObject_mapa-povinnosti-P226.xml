@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dlouhodobé řízení informačních systémů veřejné správy"
+    id="mapa-povinnosti-P226"
+    documentation="Podle § 5 a § 5a zákona o ISVS se správcům IS a orgánům veřejné správy stanovují povinnosti dlouhodobého řízení IS. Podrobnosti k jednotlivým krokům a výstupům stanoví vyhláška o dlouhodobém řízení.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5a zákona 365/2000"/>
+</archimate:BusinessObject>

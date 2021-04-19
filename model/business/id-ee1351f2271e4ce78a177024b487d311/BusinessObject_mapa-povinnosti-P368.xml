@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést a zpřístupnit údaje v evidenci vydaných prostředků pro elektronickou identifikaci"
+    id="mapa-povinnosti-P368"
+    documentation="Kvalifikovaný správce vede v evidenci vydaných prostředků pro elektronickou identifikaci jméno, popřípadě jména, a příjmení držitele, adresu místa trvalého pobytu držitele, popřípadě adresu místa bydliště mimo území České republiky, pokud držitel nemá trvalý pobyt na území České republiky, datum narození držitele, identifikátor prostředku pro elektronickou identifikaci, identifikátor držitele v rámci kvalifikovaného systému, údaj o způsobu ověření totožnosti žadatele o vydání prostředku pro elektronickou identifikaci, a byla-li totožnost ověřena průkazem totožnosti, rovněž číslo a druh průkazu totožnosti, datum a čas vydání prostředku pro elektronickou identifikaci a datum a čas jeho zneplatnění, dobu platnosti prostředku pro elektronickou identifikaci a datum a čas přijetí žádosti o zneplatnění prostředku pro elektronickou identifikaci nebo oznámení držitele o zneužití nebo hrozícím nebezpečí zneužití prostředku pro elektronickou identifikaci. Tyto údaje se uchovávají po dobu 15 let od skončení platnosti prostředku pro elektronickou identifikaci. Kvalifikovaný správce zpřístupní tyto údaje tomu, kdo osvědčí právní zájem na jejich zpřístupnění, nebo stanoví-li to zákon.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 22 odst. 1 až 3 zákona 250/2017"/>
+</archimate:BusinessObject>

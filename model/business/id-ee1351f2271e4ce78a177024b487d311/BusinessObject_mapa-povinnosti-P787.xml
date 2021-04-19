@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sdělit ohlášení agendy a zavedení působnosti"
+    id="mapa-povinnosti-P787"
+    documentation="Ministerstvo vnitra sdělí ohlašovateli agendy, že agenda byla registrována, a uvede kód agendy. Zároveň zašle Ministerstvo vnitra subjektům, které agendu vykonávají, sdělení, že příslušná agenda byla registrována, a zveřejní na portálu veřejné správy formuláře podle odstavce 1 písm. c) spolu s údaji podle § 51 odst. 6 písm. d) až f) a písm. i) až k).">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 54 odst. 6 zákona 111/2009"/>
+</archimate:BusinessObject>

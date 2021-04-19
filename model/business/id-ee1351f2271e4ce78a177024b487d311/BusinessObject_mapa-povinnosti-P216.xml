@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajištění vazeb UIS/ISVS pouze referenčním rozhraním"
+    id="mapa-povinnosti-P216"
+    documentation="OVS a správci určených informačních systémů jsou povinni zajistit, aby vazby, jimi spravovaného informačního systému veřejné správy, s výjimkou provozního informačního systému uvedeného v § 1 odst. 4 písm. a) až d) na informační systémy veřejné správy jiného správce, byly uskutečňovány prostřednictvím referenčního rozhraní.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm d) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

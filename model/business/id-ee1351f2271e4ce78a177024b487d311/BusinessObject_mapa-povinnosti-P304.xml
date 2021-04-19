@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit převzetí evidence při zániku"
+    id="mapa-povinnosti-P304"
+    documentation="Kvalifikovaný poskytovatel služeb vytvářejících důvěru, který po ukončení své činnosti nemůže splnit povinnost vést a zpřístupnit evidenci podle čl. 24 odst. 2 písm. h) nařízení Evropského parlamentu a Rady (EU) č. 910/2014, zajistí bezodkladně po ukončení své činnosti převzetí této evidence jiným kvalifikovaným poskytovatelem služeb vytvářejících důvěru. Nemůže-li zajistit toto převzetí, předá evidenci bezodkladně Ministerstvu vnitra.">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 a 2 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

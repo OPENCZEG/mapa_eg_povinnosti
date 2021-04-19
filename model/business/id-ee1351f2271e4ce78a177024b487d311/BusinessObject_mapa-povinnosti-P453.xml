@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informovat Ministerstvo vnitra o znalcích za účelem zřízení datových schránek"
+    id="mapa-povinnosti-P453"
+    documentation="Ministerstvo spravedlnosti bezodkladně informuje ministerstvo o zápisu znalce do seznamu znalců, znaleckých kanceláří a znaleckých ústavů (dále jen „seznam znalců“) a o zápisu soudního tlumočníka nebo soudního překladatele do seznamu soudních tlumočníků a soudních překladatelů (dále jen „seznam soudních tlumočníků“), o údajích vedených o této osobě v seznamu znalců nebo v seznamu soudních tlumočníků nezbytně nutných pro zřízení datové schránky a jejich změnách a o vyškrtnutí této osoby ze seznamu znalců nebo seznamu soudních tlumočníků.">
+  <properties
+      key="Určuje"
+      value="§ 15 odst. 3 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

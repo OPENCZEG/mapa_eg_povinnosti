@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strpět náhradu ověřeného podpisu elektronickým podpisem"
+    id="mapa-povinnosti-P919"
+    documentation="Stanoví-li právní předpis požadavek úředního ověření podpisu, považuje se za splněný využitím uznávaného elektronického podpisu, pokud lze s využitím údajů základního registru obyvatel nebo portálu veřejné správy ověřit, že kvalifikovaný certifikát pro elektronický podpis, na jehož základě podepisující vytvořil uznávaný elektronický podpis na dokumentu, patří podepisujícímu.">
+  <properties
+      key="Určuje"
+      value="§ 6 odst. 2 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

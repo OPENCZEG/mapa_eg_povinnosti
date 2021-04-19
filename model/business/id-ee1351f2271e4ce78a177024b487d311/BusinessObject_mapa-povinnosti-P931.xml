@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit zápis kontaktních údajů do základních registrů"
+    id="mapa-povinnosti-P931"
+    documentation="Právo na zápis kontaktního údaje uplatní uživatel služby u Ministerstva vnitra. Ministerstvo vnitra zveřejní elektronický formulář k zápisu kontaktního údaje na portálu veřejné správy a zřídí službu pro zasílání informací na kontaktní údaje.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 10 odst. 2 zákona 12/2020"/>
+</archimate:BusinessObject>

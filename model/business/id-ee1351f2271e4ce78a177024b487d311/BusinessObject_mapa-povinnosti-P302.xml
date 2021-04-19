@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uchovávat dokumenty související s vydáváním kvalifikovaných certifikátů a elektronických časových razítek"
+    id="mapa-povinnosti-P302"
+    documentation="Kvalifikovaný poskytovatel služeb vytvářejících důvěru uchovává po dobu 10 let dokumenty související s vydáváním kvalifikovaných certifikátů pro elektronické podpisy nebo elektronické pečetě, kvalifikovaných certifikátů pro autentizaci internetových stránek a kvalifikovaných elektronických časových razítek.">
+  <properties
+      key="Určuje"
+      value="§ 3 odst. 1 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

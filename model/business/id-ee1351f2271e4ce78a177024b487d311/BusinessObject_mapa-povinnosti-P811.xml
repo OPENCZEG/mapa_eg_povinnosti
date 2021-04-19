@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zprostředkovat a zveřejnit údaje o vlastníku nemovitosti a pozemku"
+    id="mapa-povinnosti-P811"
+    documentation="Registr územní identifikace zprostředkovává z katastru nemovitostí údaje o vlastníkovi pozemku nebo v katastru nemovitostí evidovaného stavebního objektu, které jsou veřejné.">
+  <properties
+      key="Určuje"
+      value="§ 62 odst. 2 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

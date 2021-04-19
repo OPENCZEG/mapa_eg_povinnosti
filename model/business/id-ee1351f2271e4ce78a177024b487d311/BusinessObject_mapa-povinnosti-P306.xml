@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Podepisovat elektronické dokumenty uznávaným elektronickým podpisem"
+    id="mapa-povinnosti-P306"
+    documentation="K podepisování elektronickým podpisem lze použít pouze uznávaný elektronický podpis, podepisuje-li se elektronický dokument, kterým se právně jedná vůči veřejnoprávnímu podepisujícímu nebo jiné osobě v souvislosti s výkonem jejich působnosti. Uznávaným elektronickým podpisem se rozumí zaručený elektronický podpis založený na kvalifikovaném certifikátu pro elektronický podpis nebo kvalifikovaný elektronický podpis.">
+  <properties
+      key="Určuje"
+      value="§ 6 odst. 1 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

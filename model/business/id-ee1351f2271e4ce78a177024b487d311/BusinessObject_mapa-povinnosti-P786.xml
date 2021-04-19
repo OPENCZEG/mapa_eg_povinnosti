@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydat stanovisko k ohlášení agendy a k přístupu k údajům"
+    id="mapa-povinnosti-P786"
+    documentation="Ministerstvo vnitra zašle správci základního registru a správci agendového informačního systému, do něhož je požadován přístup, ohlášení podle odstavce 1 ke stanovisku z hlediska způsobilosti základního registru nebo agendového informačního systému zpřístupnit požadované údaje pro výkon agendy a vhodnosti">
+  <properties
+      key="Určuje"
+      value="§ 54 odst. 4 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

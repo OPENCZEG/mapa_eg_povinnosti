@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávání stanovisek OHA k ISVS/UIS"
+    id="mapa-povinnosti-P206"
+    documentation="Ministerstvo vnitra se vyjadřuje k návrhům dokumentací programů obsahujících pořízení nebo technické zhodnocení určených informačních systémů vypracovaných podle zvláštního právního předpisu7a). Ministerstvo přitom přihlíží zejména k oprávněným zájmům předkladatele dokumentace programu a k potřebám zajištění řádného výkonu veřejné správy">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm e) a odst. 2 písm b) a g) a h) zákona 365/2000"/>
+</archimate:BusinessObject>

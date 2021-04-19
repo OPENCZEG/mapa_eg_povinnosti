@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést záznamy o přístupu k údajům Propojeného datového fondu"
+    id="mapa-povinnosti-P798"
+    documentation="Orgán veřejné moci, který byl zaregistrován pro výkon agendy, vede záznamy o přístupu k údajům vedeným v základních registrech, nejde-li o přístup k údajům veřejně přístupným, a uchovává je po dobu 2 let.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 57 odst. 1 zákona 111/2009"/>
+</archimate:BusinessObject>

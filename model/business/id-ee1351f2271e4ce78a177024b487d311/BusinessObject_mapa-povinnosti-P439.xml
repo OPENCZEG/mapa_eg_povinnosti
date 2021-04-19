@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Znepřístupnit datovou schránku"
+    id="mapa-povinnosti-P439"
+    documentation="Ministerstvo vnitra znepřístupní datovou schránku fyzické osoby a podnikající fyzické osoby, a to případně i zpětně, k určenému dni.">
+  <properties
+      key="Určuje"
+      value="§ 11 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

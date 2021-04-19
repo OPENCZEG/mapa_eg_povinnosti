@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpracovat a předložit EK a zveřejnit zprávu o přístupnosti"
+    id="mapa-povinnosti-P106"
+    documentation="Ministerstvo vnitra zpracovává a podává Evropské komisi každé 3 roky za podmínek stanovených v prováděcím aktu podle čl. 8 odst. 6 směrnice Evropského parlamentu a Rady (EU) 2016/2102 zprávu o výsledku sledování přístupnosti internetových stránek a mobilních aplikací podle § 10 písm. b). Ministerstvo zveřejní zprávu na svých internetových stránkách.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 12 zákona 99/2019"/>
+</archimate:BusinessObject>

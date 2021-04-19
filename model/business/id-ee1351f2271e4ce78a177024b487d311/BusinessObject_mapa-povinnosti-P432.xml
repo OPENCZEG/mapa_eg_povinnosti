@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zřídit datovou schránku orgánu veřejné moci"
+    id="mapa-povinnosti-P432"
+    documentation="Datovou schránku orgánu veřejné moci zřídí Ministerstvo vnitra bezplatně orgánu veřejné moci, a to bezodkladně po jeho vzniku a v případě, že orgán veřejné moci vzniká zápisem do evidence podle jiného právního předpisu, bezodkladně po jeho zápisu do rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů.">
+  <properties
+      key="Určuje"
+      value="§ 6 odst. 1 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

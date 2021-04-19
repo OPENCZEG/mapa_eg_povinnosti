@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Povinnost vykonávat elektronicky spisovou službu v ESSL"
+    id="mapa-povinnosti-P405"
+    documentation="Zákon 499/2004 stanoví určeným původcům kteří si nemohou vybrat, aby vykonávali spisovou službu v plném rozsahu v elektronické podobě, a to v elektronickém systému spisové služby (počítá se i ISSD splňující ESSL či integrovaný na ESSL).">
+  <properties
+      key="Určuje"
+      value="§ 63 odst. 3 zákona 499/2004"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

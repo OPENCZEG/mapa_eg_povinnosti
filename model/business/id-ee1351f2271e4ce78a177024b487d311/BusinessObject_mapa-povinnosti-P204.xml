@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sledování a analýza informačních potřeb veřejné správy"
+    id="mapa-povinnosti-P204"
+    documentation="Ministerstvo vnitra ve spolupráci s orgány veřejné správy sleduje a analyzuje informační potřeby veřejné správy a stav informačních systémů veřejné správy">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm b) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

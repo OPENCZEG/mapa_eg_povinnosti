@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plnit úkoly orgánu dohledu EIDAS"
+    id="mapa-povinnosti-P311"
+    documentation="Ministerstvo vnitra plní úkoly orgánu dohledu podle nařízení EU 910/2014 EIDAS a implementačního národního zákona 297/2016 a nařízení Evropského parlamentu a Rady (EU) č. 910/2014.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 1 zákona 297/2016"/>
+</archimate:BusinessObject>

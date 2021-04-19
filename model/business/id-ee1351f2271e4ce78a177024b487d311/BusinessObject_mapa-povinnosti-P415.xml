@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aktualizovat údaje o subjektu ve Jmenném rejstříku z referenčních údajů"
+    id="mapa-povinnosti-P415"
+    documentation="Pro splnění povinnosti [Povinnost vést Jmenný rejstřík] a zajištění procesu [Aktualizace údajů o subjektu ve Jmenném rejstříku] musí zajistit aktualizaci údajů o subjektu z referenčních údajů vedených v základních registrech. Tedy speciálně v agendě spisová služba realizuje [Přihlásit notifikaci údajů o fyzické osobě z ROB] a [Přihlásit notifikaci změny údajů o subjektu v ROS]. Při aktualizaci údajů pak realizuje povinnost [Aktualizovat na základě notifikace údaje o fyzické osobě z ROB] a [Aktualizovat na základě notifikace údaje o subjektu z ROS].">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 zákona 111/2009 a § 64 odst. 4 až 6 zákona 499/2004"/>
+</archimate:BusinessObject>

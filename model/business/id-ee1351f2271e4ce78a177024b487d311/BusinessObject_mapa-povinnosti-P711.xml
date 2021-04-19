@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reklamovat nesprávné údaje"
+    id="mapa-povinnosti-P711"
+    documentation="V případě, že orgán veřejné moci, který není editorem údaje vedeného v základním registru nebo agendovém informačního systému, při své činnosti zjistí nesoulad údaje vedeného v základním registru nebo agendovém informačním systému se skutečným stavem, anebo vznikne-li u něj oprávněná pochybnost o správnosti údaje, uvědomí o tom neprodleně editora daného údaje.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 4 zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

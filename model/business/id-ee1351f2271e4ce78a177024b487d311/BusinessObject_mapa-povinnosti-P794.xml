@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odpovědnost za zajištění výkonu působnosti v agendě"
+    id="mapa-povinnosti-P794"
+    documentation="Orgán veřejné moci, který byl zaregistrován pro výkon agendy, odpovídá za určení fyzických osob, které jsou nositeli rolí, a za provádění změn v těchto určeních, uplatnění odpovídajících opatření, která zabrání neoprávněnému přístupu k údajům vedeným v agendových informačních systémech a k údajům vedeným v základních registrech na základě oprávnění, které získal, uplatnění odpovídajících opatření, která zabrání neoprávněnému přístupu k údajům vedeným v agendových informačních systémech a k údajům vedeným v základních registrech v souvislosti s oprávněním soukromoprávních uživatelů údajů k jejich využívání.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 56 odst. 3 zákona 111/2009"/>
+</archimate:BusinessObject>

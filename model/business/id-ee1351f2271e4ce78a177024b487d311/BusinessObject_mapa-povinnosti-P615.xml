@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout na žádost odkaz na zveřejněnou informaci"
+    id="mapa-povinnosti-P615"
+    documentation="Pokud žádost o poskytnutí informace směřuje k poskytnutí zveřejněné informace, může povinný subjekt co nejdříve, nejpozději však do sedmi dnů, místo poskytnutí informace sdělit žadateli údaje umožňující vyhledání a získání zveřejněné informace, zejména odkaz na internetovou stránku, kde se informace nachází. Pokud žadatel trvá na přímém poskytnutí zveřejněné informace, povinný subjekt mu ji poskytne; to neplatí, pokud byla žádost o poskytnutí informace podána elektronicky a pokud je požadovaná informace zveřejněna způsobem umožňujícím dálkový přístup a žadateli byl sdělen odkaz na internetovou stránku, kde se informace nachází.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 6 zákona 106/1999"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpřístupnit v sídle vybrané dokumenty a informace"
+    id="mapa-povinnosti-P609"
+    documentation="Povinné subjekty jsou ve svém sídle povinny v úředních hodinách zpřístupnit právní předpisy vydávané v rámci jejich působnosti a seznamy hlavních dokumentů, zejména koncepční, strategické a programové povahy, které mohou být poskytnuty podle zákona 106/1999 včetně případných návrhů licenčních smluv podle § 14a zákona 106/1999.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm. a) a b) zákona 106/1999"/>
+</archimate:BusinessObject>

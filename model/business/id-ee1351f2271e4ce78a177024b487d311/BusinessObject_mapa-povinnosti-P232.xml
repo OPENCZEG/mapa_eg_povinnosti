@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Využívat cloud pouze pokud je zapsán do Katalogu cloud computingu"
+    id="mapa-povinnosti-P232"
+    documentation="Orgán veřejné správy může využívat pouze cloud computing poskytovaný státním poskytovatelem cloud computingu nebo jiným poskytovatelem cloud computingu, než je státní poskytovatel cloud computingu, obsažený v nabídce cloud computingu zapsané v katalogu cloud computingu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 6l odst 1 zákona 365/2000"/>
+</archimate:BusinessObject>

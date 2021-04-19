@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oznámit Ministerstvu vnitra konec splnění některé z podmínek pro udělení akreditace pro správu kvalifikovaného systému"
+    id="mapa-povinnosti-P323"
+    documentation="Akreditovaná osoba je povinna bez zbytečného odkladu písemně oznámit Ministerstvu vnitra, že přestala splňovat některou z podmínek pro udělení akreditace.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 7 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

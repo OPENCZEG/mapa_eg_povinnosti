@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ověřit správnost údajů zapsaných v prostředku pro elektronickou identifikaci při jeho převzetí"
+    id="mapa-povinnosti-P352"
+    documentation="Držitel prostředku pro elektronickou identifikaci ověří správnost údajů zapsaných v prostředku pro elektronickou identifikaci při převzetí tohoto prostředku.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 17 písm. a) zákona 250/2017"/>
+</archimate:BusinessObject>

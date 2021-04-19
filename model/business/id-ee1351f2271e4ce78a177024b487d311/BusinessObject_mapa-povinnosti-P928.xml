@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nepožadovat předložení dokladu nebo podkladu pro právní skutečnost"
+    id="mapa-povinnosti-P928"
+    documentation="Uživatel služby není povinen pro uplatnění svého práva, splnění povinnosti nebo doložení právní skutečnosti, která se ho týká, předkládat rozhodnutí, doklad, průkaz, osvědčení nebo poskytnout jiný údaj, pokud prokázal svoji totožnost a údaje o něm nebo o jeho právech, povinnostech nebo právních skutečnostech, které se ho týkají, jsou vedeny v základním registru nebo agendovém informačním systému a jsou orgánu veřejné moci zpřístupněné pro výkon agendy.">
+  <properties
+      key="Určuje"
+      value="§ 9 odst. 2 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

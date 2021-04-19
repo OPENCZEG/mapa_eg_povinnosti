@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Povinnost vykonávat spisovou službu"
+    id="mapa-povinnosti-P407"
+    documentation="Podle § 63 a souvisejících, zákona 499/2004 musí původci vykonávat spisovou službu. Většina vykonává povinně v elektronické podobě v ESSL a ISSD, někteří si stále mohou vybrat i listinnou podobu, ovšem ostatní EG povinnosti jim zůstávají.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 63 zákona 499/2004"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat Národní katalog otevřených dat"
+    id="mapa-povinnosti-P607"
+    documentation="Správcem národního katalogu otevřených dat je Ministerstvo vnitra.">
+  <properties
+      key="Určuje"
+      value="§ 4c odst. 2 zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

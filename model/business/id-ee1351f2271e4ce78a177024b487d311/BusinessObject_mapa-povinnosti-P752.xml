@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Využívat údaje z Registru obyvatel pro agendy voleb"
+    id="mapa-povinnosti-P752"
+    documentation="K umožnění výkonu volebního práva občana je obecní úřad obce s rozšířenou působností oprávněn na základě dotazu okrskové volební komise využívat referenční údaje z registru obyvatel v rozsahu čísla a druhu elektronicky čitelných identifikačních dokladů, jména, popřípadě jmen, příjmení a adresy místa pobytu. Tyto údaje sdělí obecní úřad obce s rozšířenou působností neprodleně okrskové volební komisi.">
+  <properties
+      key="Určuje"
+      value="§ 21 zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

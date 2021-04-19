@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Umožnit digitální úkon prostřednictvím datové schránky"
+    id="mapa-povinnosti-P904"
+    documentation="Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím své datové schránky.">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm. a) zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

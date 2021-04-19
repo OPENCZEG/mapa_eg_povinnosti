@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nevyžadovat podpis u úkonů činěných soukromoprávním subjektem prostřednictvím datové schránky"
+    id="mapa-povinnosti-P462"
+    documentation="Úkon učiněný osobou uvedenou v § 8 odst. 1 až 4 nebo pověřenou osobou, pokud k tomu byla pověřena, prostřednictvím datové schránky má stejné účinky jako úkon učiněný písemně a podepsaný, ledaže jiný právní předpis nebo vnitřní předpis požaduje společný úkon více z uvedených osob.">
+  <properties
+      key="Určuje"
+      value="§ 18 odst. 2 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

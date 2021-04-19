@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realizovat vazby Jmenného rejstříku a ESSL a ISSD systémů s ostatními ISVS referenčním rozhraním"
+    id="mapa-povinnosti-P420"
+    documentation="Pokud je původce orgánem veřejné moci, tak vykonává vždy alespoň agendu spisové služby a nejméně pro výměnu údajů a aktualizaci údajů pro Jmenný rejstřík platí povinnosti [Ztotožnit subjekt v agendě spisové služby pro vedení ve Jmenném rejstříku] a [Aktualizovat údaje o subjektu ve Jmenném rejstříku z referenčních údajů]. Zároveň musí vyměňovat údaje s jinými svými systémy překladem z identifikátoru [Bezvýznamový identifikátor subjektu spisové služby]. Pro realizaci využívání údajů pro Jmenný rejstřík, každý ESSL a ISSD musí s okolními systémy (s výjimkou ISDS) cizích správců uskutečňovat vazby prostřednictvím referenčního rozhraní (tedy přes systémy ISZR a eGSB).">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="zákon 365/2000 a zákon 111/2009"/>
+</archimate:BusinessObject>

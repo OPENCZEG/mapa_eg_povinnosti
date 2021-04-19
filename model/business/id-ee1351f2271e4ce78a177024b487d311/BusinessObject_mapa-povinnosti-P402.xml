@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tvorba skartačního návrhu a odeslání archivu"
+    id="mapa-povinnosti-P402"
+    documentation="Skartační řízení se provádí na základě skartačního návrhu. Skartační návrh zašle subjekt uvedený v § 7 odst. 4 příslušnému archivu k posouzení a k provedení výběru archiválií.">
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 2 zákona 499/2004"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

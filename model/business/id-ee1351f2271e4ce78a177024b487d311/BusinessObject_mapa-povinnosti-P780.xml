@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ohlásit údaje o agendě v rámci ohlášení agendy"
+    id="mapa-povinnosti-P780"
+    documentation="Ohlášení agendy podle § 53 obsahuje údaje uvedené v § 51 odst. 6, s výjimkou údaje podle § 51 odst. 6 písm. i) a n), identifikátoru úkonu podle § 51 odst. 6 písm. d) a e) a kódu agendy.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 54 odst. 1 písm. a) zákona 111/2009"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapisovat údaje o katastrálním území a o pozemku"
+    id="mapa-povinnosti-P766"
+    documentation="Identifikační a lokalizační údaje o katastrálním území a o pozemku a údaje o jejich vazbách na ostatní územní prvky zapisuje editor těchto údajů, kterým je příslušný katastrální úřad, prostřednictvím informačního systému katastru nemovitostí.">
+  <properties
+      key="Určuje"
+      value="§ 41 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

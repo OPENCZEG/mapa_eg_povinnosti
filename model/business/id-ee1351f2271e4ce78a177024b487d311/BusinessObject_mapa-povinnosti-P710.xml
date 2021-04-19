@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nevyužívat agendové údaje, pokud jsou vedené v základních registrech"
+    id="mapa-povinnosti-P710"
+    documentation="Orgán veřejné moci využívá údaje vedené v agendovém informačním systému, které jsou vedeny jako referenční údaje v základním registru, pouze pokud jsou ve tvaru předcházejícím současný stav.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 3 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vymezit rozsah využívání pouze podle nekladného stanoviska správce údajů"
+    id="mapa-povinnosti-P791"
+    documentation="Nezohlední-li ohlašovatel agendy důvod, který vedl správce základního registru, správce agendového informačního systému nebo správce referenčního rozhraní k nezaujetí kladného stanoviska, ohlašovatel agendy trvá na využití údajů ze základního registru nebo jiného agendového informačního systému pro výkon agendy a správce základního registru nebo správce agendového informačního systému není podřízený vládě a na svém stanovisku trvá, údaje ze základního registru nebo jiného agendového informačního systému pro výkon agendy lze využít pouze v rozsahu, v jakém to stanovisko správce základního registru nebo správce agendového informačního systému umožnuje.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 54a odst. 4 zákona 111/2009"/>
+</archimate:BusinessObject>

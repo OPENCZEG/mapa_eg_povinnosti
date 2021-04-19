@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapsat kategorie orgánů veřejné moci do Rejstříku OVM"
+    id="mapa-povinnosti-P775"
+    documentation="Ministerstvo vnitra na základě podkladů zapíše kategorii do rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 52b odst. 7 zákona 111/2009"/>
+</archimate:BusinessObject>

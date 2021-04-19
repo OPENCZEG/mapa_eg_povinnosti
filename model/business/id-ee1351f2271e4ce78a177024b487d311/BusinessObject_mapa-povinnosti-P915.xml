@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opatřit osvědčení o digitálním úkonu kvalifikovanými validačními prvky"
+    id="mapa-povinnosti-P915"
+    documentation="Osvědčení musí být opatřeno kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým časovým razítkem orgánu veřejné moci.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 věta druhá zákona 12/2020"/>
+</archimate:BusinessObject>

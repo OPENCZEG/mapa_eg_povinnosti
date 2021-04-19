@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pojistit se pro případ odpovědnosti za škodu způsobenou při správě kvalifikovaného systému"
+    id="mapa-povinnosti-P330"
+    documentation="Žadatel o akreditaci musí být pojištěn pro případ odpovědnosti za škodu způsobenou při správě kvalifikovaného systému tak, aby výše pojistné částky byla úměrná možným škodám, které lze v rozumné míře předpokládat. Ministerstvo vnitra stanoví vyhláškou pravidla pro výpočet minimálního limitu pojistného plnění.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 9 odst. 1 zákona 250/2017"/>
+</archimate:BusinessObject>

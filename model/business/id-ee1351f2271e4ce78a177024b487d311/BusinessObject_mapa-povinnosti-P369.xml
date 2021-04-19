@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést a zveřejňovat seznam kvalifikovaných správců spolu s jimi vydanými prostředky pro elektronickou identifikaci a seznam kvalifikovaných poskytovatelů spolu s on-line službami"
+    id="mapa-povinnosti-P369"
+    documentation="Správa základních registrů vede seznam kvalifikovaných správců usazených v České republice spolu s jimi vydanými prostředky pro elektronickou identifikaci a seznam kvalifikovaných poskytovatelů usazených v České republice spolu s on-line službami nebo jinými činnostmi, při nichž umožňují prokázání totožnosti s využitím elektronické identifikace. Správa základních registrů zveřejňuje tento seznam na svých internetových stránkách.">
+  <properties
+      key="Určuje"
+      value="§ 23 odst. 1 a 2 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit využívání propojeného datového fondu na základě souhlasu"
+    id="mapa-povinnosti-P922"
+    documentation="Souhlas uživatele služby k využívání údajů se podává Ministerstvu vnitra. Ministerstvo vnitra zveřejní elektronický formulář k udělení a odvolání souhlasu na portálu veřejné správy.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst. 4 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

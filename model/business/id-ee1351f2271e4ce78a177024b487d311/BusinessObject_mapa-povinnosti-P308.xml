@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opatřit elektronický dokument uznávanou elektronickou pečetí"
+    id="mapa-povinnosti-P308"
+    documentation="K pečetění elektronickou pečetí lze použít pouze uznávanou elektronickou pečeť, pečetí-li se elektronický dokument, kterým se právně jedná vůči veřejnoprávnímu podepisujícímu nebo jiné osobě v souvislosti s výkonem jejich působnosti. Uznávanou elektronickou pečetí se rozumí zaručená elektronická pečeť založená na kvalifikovaném certifikátu pro elektronickou pečeť nebo kvalifikovaná elektronická pečeť.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 9 odst. 1 zákona 297/2016"/>
+</archimate:BusinessObject>

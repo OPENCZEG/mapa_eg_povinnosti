@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout výpis subjektu z neveřejných systémů a evidencí"
+    id="mapa-povinnosti-P236"
+    documentation="Z informačních systémů veřejné správy nebo jejich částí, které jsou neveřejnými evidencemi, rejstříky nebo seznamy, vydávají správci, pokud tak stanoví zvláštní právní předpis, na požádání úplný nebo částečný výpis ze zápisu vedeného v elektronické podobě v tomto informačním systému osobě, které se zápis přímo týká, nebo osobě, která je podle zvláštního právního předpisu oprávněna žádat informaci uvedenou v zápisu, a to v rozsahu tímto zvláštním právním předpisem stanoveném. Zvláštním právním předpisem podle tohoto ustanovení se rozumí také § 9, odst 4, zákona o informačních systémech veřejné správy a zákon o zpracování osobních údajů.">
+  <properties
+      key="Určuje"
+      value="§ 9 odst 1 zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

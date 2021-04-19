@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přidělovat identifikátory OVM a SPU"
+    id="mapa-povinnosti-P770"
+    documentation="Správce registru práv a povinností přiděluje identifikátor orgánu veřejné moci a identifikátor soukromoprávního uživatele údajů.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 49 odst. 2 zákona 111/2009"/>
+</archimate:BusinessObject>

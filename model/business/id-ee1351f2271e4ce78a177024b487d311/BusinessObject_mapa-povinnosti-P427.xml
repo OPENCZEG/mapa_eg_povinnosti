@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpracovat dokumenty doručené do datové schránky"
+    id="mapa-povinnosti-P427"
+    documentation="Držitel datové schránky řeší jemu doručené dokumenty a datové zprávy jež jsou doručeny do jeho datové schránky. Zpracování a evidence dokumentů se řídí souvisejícími povinnostmi i podle toho, od koho je dokument doručen a jaké povinnosti stran správy a evidence dokumentů má daný příjemce.">
+  <properties
+      key="Určuje"
+      value="Zákon 300/2008 a související třeba Zákon 499/2004 a Zákon 500/2004 a Zákon 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

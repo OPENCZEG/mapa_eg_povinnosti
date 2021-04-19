@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejnit odpovědi a informace poskytované na žádost"
+    id="mapa-povinnosti-P612"
+    documentation="Do 15 dnů od poskytnutí informací na žádost povinný subjekt tyto informace zveřejní způsobem umožňujícím dálkový přístup. O informacích poskytnutých způsobem podle § 4a odst. 2 písm. e) a f) zákona 106/1999, informacích poskytnutých v jiné než elektronické podobě, nebo mimořádně rozsáhlých elektronicky poskytnutých informacích postačí zveřejnit doprovodnou informaci vyjadřující jejich obsah.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 3 zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

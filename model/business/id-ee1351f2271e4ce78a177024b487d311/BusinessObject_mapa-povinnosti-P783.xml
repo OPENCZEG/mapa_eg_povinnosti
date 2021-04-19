@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ohlásit elektronické formuláře v rámci ohlášení agendy"
+    id="mapa-povinnosti-P783"
+    documentation="Ohlášení agendy podle § 53 obsahuje formuláře v elektronické podobě pro podání a jiné úkony, nevylučuje-li jiný právní předpis stanovící náležitosti výkonu agendy použití formulářů v elektronické nebo listinné podobě nebo nepožaduje-li jiný právní předpis stanovící náležitosti výkonu agendy použití zvláštního formuláře, který není možno bez omezení tisknout, zpřístupnit či distribuovat, anebo není-li použití formulářů v elektronické nebo listinné podobě s ohledem na povahu úkonu v agendě účelné; formuláře se předloží ve formátu, vlastnostech a struktuře, kterou Ministerstvo vnitra zveřejní způsobem umožňujícím dálkový přístup.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 54 odst. 1 písm. d) zákona 111/2009"/>
+</archimate:BusinessObject>

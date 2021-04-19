@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit splnění požadavků EIDAS na Národní bod"
+    id="mapa-povinnosti-P364"
+    documentation="Správcem národního bodu je Správa základních registrů. Správce národního bodu zajistí, aby národní bod splňoval požadavky stanovené přímo použitelným předpisem Evropské unie upravujícím rámec interoperability.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 20 odst. 2 a 4 zákona 250/2017"/>
+</archimate:BusinessObject>

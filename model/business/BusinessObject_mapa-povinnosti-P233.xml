@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zápis a výmaz využívaného cloud computingu do katalogu cloud computingu"
+    id="mapa-povinnosti-P233"
+    documentation="Orgán veřejné správy zapíše cloud computing, který využívá, do katalogu cloud computingu, a to do 45 dnů ode dne nabytí platnosti smlouvy o poskytnutí cloud computingu. Orgán veřejné správy vymaže cloud computing, jehož využívání ukončil, a to do 45 dnů ode dne pozbytí platnosti smlouvy o poskytnutí cloud computingu.">
+  <properties
+      key="Určuje"
+      value="§ 6q zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

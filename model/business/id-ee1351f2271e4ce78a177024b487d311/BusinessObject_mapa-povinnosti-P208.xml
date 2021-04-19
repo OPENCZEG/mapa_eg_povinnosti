@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Koordinace a vytváření podmínek k informačním činnostem prostřednictvím veřejných IS"
+    id="mapa-povinnosti-P208"
+    documentation="Ministerstvo vnitra ve spolupráci s orgány veřejné správy koordinuje a vytváří podmínky pro činnost veřejné správy prostřednictvím veřejně přístupných informačních systémů veřejné správy, včetně dálkového přístupu">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm g) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

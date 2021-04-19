@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nevyžadovat údaje vedené v základních registrech nebo v agendových informačních systémech od subjektu"
+    id="mapa-povinnosti-P709"
+    documentation="Orgán veřejné moci využívá údaje vedené v základním registru nebo údaje vedené v agendovém informačním systému, které nejsou ve tvaru předcházejícím současný stav, aniž by ověřoval jejich správnost. Od osob, po kterých je jiným právním předpisem požadováno doložení údajů vedených v základním registru nebo agendovém informačním systému, je orgán veřejné moci oprávněn požadovat poskytnutí takových údajů pouze, pokud nejsou obsaženy ve výčtu údajů zpřístupněných orgánu veřejné moci pro výkon agendy, jsou označeny jako nesprávné, vznikne oprávněná pochybnost o správnosti údaje, nebo jsou nezbytné pro bezpečnostní řízení podle jiného právního předpisu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

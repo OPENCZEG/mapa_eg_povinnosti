@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejňovat povinně zveřejňované informace"
+    id="mapa-povinnosti-P608"
+    documentation="Každý povinný subjekt musí pro informování veřejnosti ve svém sídle a svých úřadovnách zveřejnit na místě, které je všeobecně přístupné, jakož i umožnit pořízení jejich kopie, informace podle § 5 odst. 1 zákona 106/1999.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 1 zákona 106/1999"/>
+</archimate:BusinessObject>

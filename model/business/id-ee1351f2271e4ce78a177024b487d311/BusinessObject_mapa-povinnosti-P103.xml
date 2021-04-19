@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="U nepřístupného obsahu podle institutu nepřiměřené zátěže zajistit náhradní způsob"
+    id="mapa-povinnosti-P103"
+    documentation="Využije-li povinný subjekt institut nepřiměřené zátěže pro vybraný obsah internetových stránek či mobilních aplikací, zajistí sdělení informací náhradním způsobem.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst 4 zákona 99/2019"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

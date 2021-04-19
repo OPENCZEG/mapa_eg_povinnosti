@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ohlásit zneužití nebo hrozící nebezpečí zneužití prostředku pro elektronickou identifikaci"
+    id="mapa-povinnosti-P354"
+    documentation="Držitel prostředku pro elektronickou identifikaci bez zbytečného odkladu ohlásí kvalifikovanému správci zneužití nebo hrozící nebezpečí zneužití prostředku pro elektronickou identifikaci.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 17 písm. c) zákona 250/2017"/>
+</archimate:BusinessObject>

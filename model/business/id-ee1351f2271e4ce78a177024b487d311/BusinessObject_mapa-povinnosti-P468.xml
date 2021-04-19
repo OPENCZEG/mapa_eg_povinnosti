@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provádět autorizovanou konverzi na žádost"
+    id="mapa-povinnosti-P468"
+    documentation="Konverzi na žádost provádějí kontaktní místa veřejné správy a advokáti za podmínek stanovených jiným právním předpisem.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 23 odst. 1 zákona 300/2008"/>
+</archimate:BusinessObject>

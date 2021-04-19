@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit digitalizaci služeb"
+    id="mapa-povinnosti-P942"
+    documentation="Ohlašovatelé agend zajistí umožnění využívání digitálních služeb a činění digitálních úkonů podle harmonogramu vlády, nejpozději však do pěti let od účinnosti zákona 12/2020. Podrobnosti stanovuje § 14 odst. 4 a 5.">
+  <properties
+      key="Určuje"
+      value="§ 14 odst. 4 a 5 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit převod agendových identifikátorů fyzických osob"
+    id="mapa-povinnosti-P741"
+    documentation="Úřad pro ochranu osobních údajů zajišťuje převod agendového identifikátoru fyzické osoby v agendě na agendový identifikátor této fyzické osoby v jiné agendě, a to na základě zákonného požadavku.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 1 písm. b) zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

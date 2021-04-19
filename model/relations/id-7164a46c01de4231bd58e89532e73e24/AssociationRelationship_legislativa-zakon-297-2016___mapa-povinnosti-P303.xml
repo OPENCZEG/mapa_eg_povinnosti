@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="určuje povinnost"
+    id="legislativa-zakon-297-2016___mapa-povinnosti-P303">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_legislativa-zakon-297-2016.xml#legislativa-zakon-297-2016"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_mapa-povinnosti-P303.xml#mapa-povinnosti-P303"/>
+</archimate:AssociationRelationship>

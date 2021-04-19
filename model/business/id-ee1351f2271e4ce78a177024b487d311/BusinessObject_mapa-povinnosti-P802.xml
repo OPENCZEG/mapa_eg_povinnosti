@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout referenční a provozní údaje z Registru práv a povinností subjektu údajů na žádost"
+    id="mapa-povinnosti-P802"
+    documentation="Fyzické osobě se poskytnou referenční či provozní údaje, které jsou k ní vedeny v Registru práv a povinností na základě žádosti.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 58 odst. 1 zákona 111/2009"/>
+</archimate:BusinessObject>

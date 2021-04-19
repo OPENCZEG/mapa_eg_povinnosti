@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést Rejstřík orgánů veřejné moci a soukromoprávních uživatelů"
+    id="mapa-povinnosti-P772"
+    documentation="Ministerstvo vnitra vede v informačním systému registru práv a povinností rejstřík orgánů veřejné moci a soukromoprávních uživatelů údajů. V rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů jsou vedeny o orgánu veřejné moci údaje stanovené v § 51 odst. 1 a údaj o datu zániku orgánu veřejné moci a o soukromoprávním uživateli údajů údaje stanovené v § 51 odst. 3.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 52b odst. 1 zákona 111/2009"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést a aktualizovat plán ukončení činnosti a při ukončení činnosti podle něj postupovat"
+    id="mapa-povinnosti-P349"
+    documentation="Kvalifikovaný správce vede a aktualizuje plán ukončení činnosti a při ukončení své činnosti podle něj postupuje.">
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. k) a l) zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zřídit datovou schránku podnikající fyzické osoby na její žádost"
+    id="mapa-povinnosti-P428"
+    documentation="Datovou schránku podnikající fyzické osoby zřídí Ministerstvo vnitra bezplatně na žádost této osoby do 3 pracovních dnů ode dne podání žádosti.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 zákona 300/2008"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="určuje povinnost"
+    id="legislativa-zakon-99-2019___mapa-povinnosti-P104">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_legislativa-zakon-99-2019.xml#legislativa-zakon-99-2019"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_mapa-povinnosti-P104.xml#mapa-povinnosti-P104"/>
+</archimate:AssociationRelationship>

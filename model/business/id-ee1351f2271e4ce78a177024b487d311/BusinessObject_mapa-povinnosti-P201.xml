@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vláda rozhodne v rámci eskalace mezi MV a OVS/správců ISVS"
+    id="mapa-povinnosti-P201"
+    documentation="V případě nesouhlasu mezi MV a správci ISVS, u povinností stanovisek podle zákona o ISVS, rozhoduje vláda.">
+  <properties
+      key="Určuje"
+      value="§ 3 písm. B) a c) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

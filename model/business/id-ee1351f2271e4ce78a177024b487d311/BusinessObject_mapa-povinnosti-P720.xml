@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit vazby systémů propojeného datového fondu"
+    id="mapa-povinnosti-P720"
+    documentation="Správa základních registrů zajišťuje realizaci vazeb mezi jednotlivými základními registry prostřednictvím služeb informačního systému základních registrů,, realizaci vazeb mezi základními registry a agendovými informačními systémy prostřednictvím služeb informačního systému základních registrů,realizaci vazeb mezi agendovými informačními systémy, jejichž prostřednictvím se zapisují údaje do základních registrů, a jinými agendovými informačními systémy prostřednictvím služeb informačního systému základních registrů, realizaci vazeb mezi agendovými informačními systémy, jejichž prostřednictvím se nezapisují údaje do základních registrů, prostřednictvím služeb informačního systému sdílené služby.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst. 2 písm. b) až e) zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

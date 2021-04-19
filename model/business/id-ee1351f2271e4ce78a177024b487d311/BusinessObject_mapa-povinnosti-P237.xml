@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout subjektu elektronický výpis z ISVS a údaje z ISVS o subjektu"
+    id="mapa-povinnosti-P237"
+    documentation="Správce informačního systému veřejné správy musí umožnit držiteli zaručené identity prostředkem zaručené identifikace výpis z informačního systému a údaje z informačního systému o ní vedené, nebo informaci, že informační systém takové údaje neobsahuje. Toto musí umožnit také prostřednictvím Portálu veřejné správy.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 9 odst 4 zákona 365/2000"/>
+</archimate:BusinessObject>

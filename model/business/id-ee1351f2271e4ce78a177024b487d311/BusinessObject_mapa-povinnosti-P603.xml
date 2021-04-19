@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpracovat a zveřejnit výroční zprávu o poskytování informací"
+    id="mapa-povinnosti-P603"
+    documentation="Každý povinný subjekt musí vždy do 1. března zveřejnit výroční zprávu za předcházející kalendářní rok o své činnosti v oblasti poskytování informací podle tohoto zákona obsahující následující údaje: a) počet podaných žádostí o informace a počet vydaných rozhodnutí o odmítnutí žádosti, b) počet podaných odvolání proti rozhodnutí, c) opis podstatných částí každého rozsudku soudu ve věci přezkoumání zákonnosti rozhodnutí povinného subjektu o odmítnutí žádosti o poskytnutí informace a přehled všech výdajů, které povinný subjekt vynaložil v souvislosti se soudními řízeními o právech a povinnostech podle tohoto zákona, a to včetně nákladů na své vlastní zaměstnance a nákladů na právní zastoupení, d) výčet poskytnutých výhradních licencí, včetně odůvodnění nezbytnosti poskytnutí výhradní licence, e) počet stížností podaných podle § 16a, důvody jejich podání a stručný popis způsobu jejich vyřízení, f) další informace vztahující se k uplatňování tohoto zákona.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 18 zákona 106/1999"/>
+</archimate:BusinessObject>

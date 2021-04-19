@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plnit povinnosti v případě převzetí závazku zaniklého poskytovatele QTSP"
+    id="mapa-povinnosti-P314"
+    documentation="Ministerstvo vnitra plní povinnost podle čl. 24 odst. 2 písm. h) nařízení Evropského parlamentu a Rady (EU) č. 910/2014 v případě převzetí evidence od zaniklého poskytovatele služeb vytvářejícího důvěru.">
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 5 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

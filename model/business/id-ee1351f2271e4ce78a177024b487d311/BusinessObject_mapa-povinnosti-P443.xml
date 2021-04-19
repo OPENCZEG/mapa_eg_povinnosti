@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provozovat přístupové rozhraní ISDS pro služby"
+    id="mapa-povinnosti-P443"
+    documentation="Ministerstvo vnitra může na žádost osoby poskytující své služby na internetu, jež jsou přístupné prostřednictvím jí provozovaných individuálních uživatelských účtů adresátů těchto služeb (dále jen „poskytovatel internetových služeb“), povolit využívání rozhraní informačního systému datových schránek, které slouží pro správu přístupových údajů a identity osob oprávněných k přístupu do datových schránek a vazby přístupových údajů těchto osob na přístupové údaje k individuálním uživatelským účtům (dále jen „přístupové rozhraní“). Součástí žádosti je popis způsobu využití přístupového rozhraní.">
+  <properties
+      key="Určuje"
+      value="§ 14a odst. 1 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

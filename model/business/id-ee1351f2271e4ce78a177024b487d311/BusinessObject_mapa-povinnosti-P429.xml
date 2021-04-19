@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zřídit datovou schránku právnické osoby"
+    id="mapa-povinnosti-P429"
+    documentation="Datovou schránku právnické osoby zřídí Ministerstvo vnitra bezplatně právnické osobě zřízené zákonem, právnické osobě zapsané v obchodním rejstříku a organizační složce podniku zahraniční právnické osoby zapsané v obchodním rejstříku, a to v případě právnické osoby zřízené zákonem bezodkladně po jejím vzniku, v případě právnické osoby zapsané v obchodním rejstříku a organizační složky podniku zahraniční právnické osoby zapsané v obchodním rejstříku bezodkladně poté, co obdrží informaci o jejím zapsání do obchodního rejstříku.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 1 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

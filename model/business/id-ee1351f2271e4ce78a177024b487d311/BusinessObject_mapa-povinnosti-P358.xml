@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plnit úkoly jednotného kontaktního místa EIDAS"
+    id="mapa-povinnosti-P358"
+    documentation="Ministerstvo vnitra plní úkoly jednotného kontaktního místa podle Prováděcího rozhodnutí Komise (EU) 2015/296 ze dne 24. února 2015, kterým se stanoví procesní opatření pro spolupráci mezi členskými státy v oblasti elektronické identifikace podle čl. 12 odst. 7 nařízení Evropského parlamentu a Rady (EU) č. 910/2014 o elektronické identifikaci a službách vytvářejících důvěru pro elektronické transakce na vnitřním trhu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 19 odst. 1 písm. b) zákona 250/2017"/>
+</archimate:BusinessObject>

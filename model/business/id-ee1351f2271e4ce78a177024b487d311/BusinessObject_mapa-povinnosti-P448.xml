@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odejmout oprávnění k využívání přístupového rozhraní ISDS"
+    id="mapa-povinnosti-P448"
+    documentation="Ministerstvo vnitra odejme oprávnění poskytovateli služeb využívat přístupové rozhraní datových schránek v případě porušení povinností podle §14a odst. 3, a to za podmínek uvedeních v odst. 7">
+  <properties
+      key="Určuje"
+      value="§ 14a odst. 7 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

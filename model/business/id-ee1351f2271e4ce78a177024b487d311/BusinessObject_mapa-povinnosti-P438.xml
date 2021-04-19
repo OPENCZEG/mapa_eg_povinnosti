@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opětovně zpřístupnit datovou schránku"
+    id="mapa-povinnosti-P438"
+    documentation="Znepřístupněnou datovou schránku fyzické osoby, podnikající fyzické osoby, právnické osoby nebo orgánu veřejné moci Ministerstvo vnitra zpřístupní na žádost osoby nebo orgánu veřejné moci, jimž byla datová schránka zřízena, nebo administrátora do 3 pracovních dnů od podání žádosti. Byla-li datová schránka na žádost znepřístupněna dvakrát za poslední rok, lze ji zpřístupnit nejdříve uplynutím 1 roku od jejího posledního znepřístupnění. Znepřístupněnou datovou schránku orgánu veřejné moci, která byla znepřístupněna podle odstavce 4 věty druhé, ministerstvo zpřístupní dnem, kdy byl údaj o přerušení nebo pozastavení působnosti vymazán z rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů.">
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 7 a 8 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

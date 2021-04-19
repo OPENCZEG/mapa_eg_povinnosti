@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přidělovat dokumentům dohledatelné identifikátory (PID, ČJ nebo EČ)"
+    id="mapa-povinnosti-P404"
+    documentation="Původce musí dokumentům přidělit vždy [Jednoznačný identifikátor dokumentu (PID)] a buď [Číslo jednací], nebo [Evidenční číslo ze samostatné evidence]. Těmito identifikátory musí být schopen dokument kdykoliv identifikovat a dohledat jej i jeho historii.">
+  <properties
+      key="Určuje"
+      value="§ 63 odst. 2 a související zákona 499/2004 a vyhláška 259/2012"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

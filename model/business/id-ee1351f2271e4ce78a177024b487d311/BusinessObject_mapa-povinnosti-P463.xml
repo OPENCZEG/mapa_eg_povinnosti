@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hradit za poštovní datové zprávy"
+    id="mapa-povinnosti-P463"
+    documentation="Za dodání dokumentu podle odstavce 1 náleží provozovateli informačního systému datových schránek odměna, která se stanoví podle cenových předpisů. Odměnu hradí fyzická osoba, podnikající fyzická osoba nebo právnická osoba, z jejíž datové schránky byl dokument odeslán. Tato osoba může určit, že bude hradit i dodání dokumentu, který je odpovědí na dokument dodaný podle předchozí věty. Odměnu podle věty první může za fyzickou osobu, podnikající fyzickou osobou nebo právnickou osobu, z jejíž datové schránky byl dokument odeslán, hradit rovněž jiná fyzická osoba, podnikající fyzická osoba nebo právnická osoba, předloží-li provozovateli informačního systému datových schránek písemný souhlas fyzické osoby, podnikající fyzické osoby nebo právnické osoby, z jejíž datové schránky byl dokument odeslán, s tímto způsobem úhrady odměny nebo jeho výstup z autorizované konverze dokumentů; podpis osoby v písemném souhlasu musí být úředně ověřen. Provozovatel informačního systému datových schránek vyrozumí prostřednictvím informačního systému datových schránek fyzickou osobu, podnikající fyzickou osobu nebo právnickou osobu, z jejíž datové schránky mají být odesílány dokumenty hrazené způsobem podle věty třetí nebo čtvrté, o tomto způsobu úhrady.">
+  <properties
+      key="Určuje"
+      value="§ 18a odst. 3 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stanovit harmonogram digitalizace služeb"
+    id="mapa-povinnosti-P941"
+    documentation="Vláda stanoví do 12 měsíců ode dne účinnosti tohoto zákona harmonogram a technické způsoby provedení postupné digitalizace úkonů obsažených v katalogu služeb, které dosud nejsou poskytovány jako digitální služby nebo prováděny jako digitální úkony a jejichž povaha to nevylučuje, pro období následujících 4 let.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 14 odst. 4 věta první zákona 12/2020"/>
+</archimate:BusinessObject>

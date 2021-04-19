@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout informace a údaje o příjemcích veřejných prostředků"
+    id="mapa-povinnosti-P618"
+    documentation="Povinný subjekt poskytne základní osobní údaje o osobě, které poskytl veřejné prostředky. To se nevztahuje na poskytování veřejných prostředků podle zákonů v oblasti sociální, poskytování zdravotních služeb, hmotného zabezpečení v nezaměstnanosti, státní podpory stavebního spoření a státní pomoci při obnově území.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 8b zákona 106/1999"/>
+</archimate:BusinessObject>

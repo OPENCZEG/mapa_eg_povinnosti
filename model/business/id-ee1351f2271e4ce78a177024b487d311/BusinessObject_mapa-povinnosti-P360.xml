@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést a zveřejňovat evidenci udělených akreditací a jejich změn"
+    id="mapa-povinnosti-P360"
+    documentation="Ministerstvo vnitra vede evidenci udělených akreditací a jejich změn a zveřejňuje ji na svých internetových stránkách.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 19 odst. 1 písm. d) zákona 250/2017"/>
+</archimate:BusinessObject>

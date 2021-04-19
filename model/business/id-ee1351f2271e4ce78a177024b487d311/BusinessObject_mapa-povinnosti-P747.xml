@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plnit funkci editora u údajů v Registru obyvatel o cizincích"
+    id="mapa-povinnosti-P747"
+    documentation="U cizinců je editorem Policie České republiky a zapisuje údaje prostřednictvím Agendového informačního systému cizinců.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 19 odst. 2 a 3 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

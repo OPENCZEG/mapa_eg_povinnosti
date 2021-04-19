@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odesílat dokumenty doručením do vlastních rukou"
+    id="mapa-povinnosti-P410"
+    documentation="Do vlastních rukou adresáta odesílají určení původci dokumenty, u nichž je nutno, aby doručení bylo doloženo, nebo je-li to stanoveno zvláštními právními předpisy.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 67 zákona 499/2004"/>
+</archimate:BusinessObject>

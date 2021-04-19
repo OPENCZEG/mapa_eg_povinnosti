@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávat provozní dokumentaci svých informačních systémů"
+    id="mapa-povinnosti-P219"
+    documentation="OVS a správci ISVS, na základě informační koncepce, vydávají provozní dokumentaci svých informačních systémů. Struktura provozní dokumentace je stanovena vyhláškou o dlouhodobém řízení.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 3 zákona 365/2000"/>
+</archimate:BusinessObject>

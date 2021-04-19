@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řešit přestupky podle zákona 300/2008"
+    id="mapa-povinnosti-P472"
+    documentation="Subjekt provádějící konverzi vede evidenci provedených konverzí. Záznam v evidenci obsahuje údaje podle § 26. Tyto údaje jsou v evidenci provedených konverzí uchovávány po dobu 10 let od provedení konverze.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 26c zákona 300/2008"/>
+</archimate:BusinessObject>

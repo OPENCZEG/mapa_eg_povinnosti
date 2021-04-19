@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapisovat údaje do Informačního systému územní identifikace"
+    id="mapa-povinnosti-P764"
+    documentation="Český statistický úřad, obce a stavební úřady mohou údaje stanovené tímto zákonem zapisovat do informačního systému územní identifikace prostřednictvím informačních systémů sloužících k plnění jejich úkolů.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 39 odst. 5 zákona 111/2009"/>
+</archimate:BusinessObject>

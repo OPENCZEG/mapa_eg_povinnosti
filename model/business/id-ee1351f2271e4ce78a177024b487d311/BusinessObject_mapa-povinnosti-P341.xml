@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit dostupnost spravovaného kvalifikovaného systému"
+    id="mapa-povinnosti-P341"
+    documentation="Kvalifikovaný správce zajistí dostupnost jím spravovaného kvalifikovaného systému pro spoléhající se stranu způsobem umožňujícím dálkový přístup prostřednictvím národního bodu a pro národní bod způsobem umožňujícím dálkový přístup">
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. a) zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

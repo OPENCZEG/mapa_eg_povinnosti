@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyhodnocovat plnění svojí informační koncepce"
+    id="mapa-povinnosti-P225"
+    documentation="Orgány veřejné správy vytvářejí a vydávají informační koncepci orgánu veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5a odst. 2 zákona 365/2000"/>
+  <properties
+      key="Určuje"
+      value="§ 5a odst. 2 zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

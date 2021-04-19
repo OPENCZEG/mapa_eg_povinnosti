@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpracovávání návrhů strategických materiálů v oblasti EG a ISVS"
+    id="mapa-povinnosti-P203"
+    documentation="Ministerstvo vnitra ve spolupráci s orgány veřejné správy zpracovává návrhy strategických dokumentů v oblasti informačních systémů veřejné správy, a to i z hlediska bezpečnosti těchto systémů, a předkládá tyto dokumenty vládě">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm b) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

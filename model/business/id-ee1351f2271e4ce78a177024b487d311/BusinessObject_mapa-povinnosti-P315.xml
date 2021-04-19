@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyrozumět Úřad pro ochranu osobních údajů z titulu orgánu dohledu"
+    id="mapa-povinnosti-P315"
+    documentation="Ministerstvo vnitra bezodkladně vyrozumí Úřad pro ochranu osobních údajů o zjištěních učiněných v souvislosti s plněním úkolů orgánu dohledu podle zákona 297/2016 a nařízení Evropského parlamentu a Rady (EU) č. 910/2014, pokud se týkají působnosti tohoto úřadu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 6 zákona 297/2016"/>
+</archimate:BusinessObject>

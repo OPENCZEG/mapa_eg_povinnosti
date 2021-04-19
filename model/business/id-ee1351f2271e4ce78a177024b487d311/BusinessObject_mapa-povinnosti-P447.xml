@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrolovat využívání přístupového rozhraní ISDS u poskytovatele služeb"
+    id="mapa-povinnosti-P447"
+    documentation="Ministerstvo vnitra kontroluje u poskytovatele internetových služeb plnění věcných, personálních, technických, bezpečnostních a organizačních podmínek pro využívání přístupového rozhraní. Ministerstvo rozhodne o odnětí povolení k využívání přístupového rozhraní, a) nesplňuje-li poskytovatel internetových služeb věcné, personální, technické, bezpečnostní nebo organizační podmínky pro využívání přístupového rozhraní a nedojde-li do 3 měsíců ode dne, kdy ministerstvo na tuto skutečnost upozornilo, k nápravě, nebo b) požádá-li o to poskytovatel internetových služeb.">
+  <properties
+      key="Určuje"
+      value="§ 14a odst. 6 a 7 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

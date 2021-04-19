@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejňovat zpřístupněné vybrané dokumenty a informace také elektronicky"
+    id="mapa-povinnosti-P613"
+    documentation="Povinné subjekty jsou povinny zveřejňovat informace uvedené v § 5 odstavci 1 a 2 zákona 106/1999.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 4 zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

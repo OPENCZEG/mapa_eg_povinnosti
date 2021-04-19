@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést evidenci konverzí z autorizované konverze"
+    id="mapa-povinnosti-P471"
+    documentation="Orgán, který provádí autorizovanou konverzi z moci úřední vede evidenci konverzí a zapisuje do centrální evidence konverzí.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 26 zákona 300/2008"/>
+</archimate:BusinessObject>

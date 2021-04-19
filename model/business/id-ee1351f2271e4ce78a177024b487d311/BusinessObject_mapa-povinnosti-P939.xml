@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neomezovat technologické prostředky"
+    id="mapa-povinnosti-P939"
+    documentation="Orgán veřejné moci zpřístupní digitální službu uživateli služby bez závislosti na konkrétní platformě či technologii, ledaže by takové řešení bylo nepřiměřeně ekonomicky náročné, nesplňovalo požadavky na bezpečnost informačního systému veřejné správy nebo mu bránil jiný právním předpisem chráněný veřejný zájem.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 1 zákona 12/2020"/>
+</archimate:BusinessObject>

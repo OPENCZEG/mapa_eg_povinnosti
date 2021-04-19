@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaslat výpis využívání údajů do datové schránky"
+    id="mapa-povinnosti-P743"
+    documentation="Záznam o využívání údajů v základním registru zasílá správce příslušného základního registru bezplatně osobě uvedené v odstavci 3, má-li zřízenu a zpřístupněnu datovou schránku, vždy za každý uplynulý kalendářní rok, do datové schránky. Záznam o využívání údajů v základním registru se vydává rovněž v podobě ověřeného výstupu z informačního systému veřejné správy.">
+  <properties
+      key="Určuje"
+      value="§ 14 odst. 4 zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

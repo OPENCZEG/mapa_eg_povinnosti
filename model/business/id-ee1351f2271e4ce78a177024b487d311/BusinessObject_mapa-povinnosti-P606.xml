@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publikovat informace jako otevřená data"
+    id="mapa-povinnosti-P606"
+    documentation="Povinné subjekty zveřejňují informace obsažené v jimi vedených nebo spravovaných registrech, evidencích, seznamech nebo rejstřících, které jsou na základě zákona každému přístupné a které lze využít při podnikání nebo jiné výdělečné činnosti, ke studijním nebo vědeckým účelům anebo při veřejné kontrole povinných subjektů, jako otevřená data. Povinné subjekty zaevidují tyto informace v národním katalogu otevřených dat. Seznam informací podle věty první stanoví prováděcí právní předpis. Má se za to, že před dalším zpracováním otevřených dat nemají přednost oprávněné zájmy nebo práva a svobody subjektu údajů vyžadující ochranu osobních údajů.">
+  <properties
+      key="Určuje"
+      value="§ 4b odst. 2 zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stanovit podmínky přístupového rozhraní ISDS"
+    id="mapa-povinnosti-P445"
+    documentation="Ministerstvo vnitra stanovuje věcné, personální, technické, bezpečnostní a organizační podmínky pro využívání přístupového rozhraní a zveřejňuje je ve Věstníku ministerstva a způsobem umožňujícím dálkový přístup. Stanoví-li ministerstvo nové podmínky podle věty první, povinnost poskytovatele internetových služeb splňovat tyto podmínky nastane nejdříve prvním dnem třetího kalendářního měsíce následujícího po kalendářním měsíci, v němž došlo k jejich zveřejnění, nestanoví-li ministerstvo delší dobu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 14a odst. 3 zákona 300/2008"/>
+</archimate:BusinessObject>

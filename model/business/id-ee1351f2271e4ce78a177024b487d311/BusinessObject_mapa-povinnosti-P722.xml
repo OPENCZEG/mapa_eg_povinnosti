@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpřístupnit údaje v agendových informačních systémech podle matice oprávnění"
+    id="mapa-povinnosti-P722"
+    documentation="Správa základních registrů zajišťuje zpřístupnění údajů vedených v agendových informačních systémech, jejichž prostřednictvím se nezapisují údaje do základních registrů, v rozsahu oprávnění vedených v registru práv a povinností prostřednictvím služeb informačního systému sdílené služby.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst. 2 písm. g) zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

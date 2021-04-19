@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout výpis z veřejných systémů a evidencí"
+    id="mapa-povinnosti-P234"
+    documentation="Z informačních systémů veřejné správy nebo jejich částí, které jsou veřejnými evidencemi, rejstříky nebo seznamy, vydávají orgány veřejné správy, které jsou správci těchto systémů, na požádání úplný nebo částečný výpis ze zápisu vedeného v elektronické podobě v tomto informačním systému.">
+  <properties
+      key="Určuje"
+      value="§ 9 odst 1 zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

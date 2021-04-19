@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávat a udržovat provozní a bezpečnostní dokumentaci k ESSL a ISSD systémům"
+    id="mapa-povinnosti-P417"
+    documentation="Orgán veřejné moci, který provozuje ESSL či ISSD systémy, musí u nich zajistit plný soulad s povinnostmi podle zákona 365/2000 (podle § 1, odst. 4, písm. c), a to včetně vydávání, udržování a aktualizace provozní dokumentace k těmto systémům, bezpečnostní dokumentace k těmto systémům a dodržování principů jejich realizace.">
+  <properties
+      key="Určuje"
+      value="zákon 365/2000 a vyhláška 529/2006"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

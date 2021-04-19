@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upozornit akreditovanou osobu na nesplnění některých podmínek pro udělení akreditace"
+    id="mapa-povinnosti-P327"
+    documentation="Přestane-li akreditovaná osoba splňovat některou z podmínek pro udělení akreditace, Ministerstvo vnitra ji písemně upozorní na možnost odnětí akreditace a zároveň ji vyzve, aby bez zbytečného odkladu zjednala nápravu. Nezjedná-li akreditovaná osoba ani na základě upozornění ministerstva nápravu, ministerstvo jí akreditaci odejme.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst. 1 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

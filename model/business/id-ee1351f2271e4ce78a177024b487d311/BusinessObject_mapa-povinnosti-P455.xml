@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doručovat dokumenty mezi OVM datovou schránkou"
+    id="mapa-povinnosti-P455"
+    documentation="Umožňuje-li to povaha dokumentu, orgán veřejné moci jej doručuje jinému orgánu veřejné moci prostřednictvím datové schránky, pokud se nedoručuje na místě. Umožňuje-li to povaha dokumentu a má-li fyzická osoba, podnikající fyzická osoba nebo právnická osoba zpřístupněnu svou datovou schránku, orgán veřejné moci doručuje dokument této osobě prostřednictvím datové schránky, pokud se nedoručuje veřejnou vyhláškou nebo na místě. Doručuje-li se způsobem podle tohoto zákona, ustanovení jiných právních předpisů upravující způsob doručení se nepoužijí.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 17 odst. 1 a 2 zákona 300/2008"/>
+</archimate:BusinessObject>

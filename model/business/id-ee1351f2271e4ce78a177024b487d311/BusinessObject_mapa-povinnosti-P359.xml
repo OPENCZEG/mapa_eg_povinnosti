@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrolovat kvalifikované správce, kvalifikované poskytovatele a pověřené osoby"
+    id="mapa-povinnosti-P359"
+    documentation="Ministerstvo vnitra kontroluje kvalifikované správce, kvalifikované poskytovatele a pověřené osoby.">
+  <properties
+      key="Určuje"
+      value="§ 19 odst. 1 písm. c) zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

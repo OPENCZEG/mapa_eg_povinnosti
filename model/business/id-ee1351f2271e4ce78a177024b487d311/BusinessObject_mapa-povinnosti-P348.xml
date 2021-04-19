@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Při ukončení činnosti zneplatnit vydané prostředky pro elektronickou identifikaci a toto zneplatnění oznámit"
+    id="mapa-povinnosti-P348"
+    documentation="Kvalifikovaný správce při ukončení své činnosti zneplatní jím vydané prostředky pro elektronickou identifikaci. Toto zneplatnění oznámí správci národního bodu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. i) a j) zákona 250/2017"/>
+</archimate:BusinessObject>

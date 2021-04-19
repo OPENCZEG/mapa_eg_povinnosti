@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydávat a realizovat svoji informační koncepci"
+    id="mapa-povinnosti-P223"
+    documentation="Orgány veřejné správy vytvářejí a vydávají informační koncepci orgánu veřejné správy, uplatňují ji v praxi a vyhodnocují její dodržování. V informační koncepci orgánu veřejné správy ,orgány veřejné správy stanoví své dlouhodobé cíle v oblasti řízení kvality a bezpečnosti spravovaných informačních systémů veřejné správy, a vymezí obecné principy pořizování, vytváření, správy a provozování svých informačních systémů veřejné správy. Obsah a strukturu informační koncepce orgánu veřejné správy, jakož i postupy orgánů veřejné správy při jejím vytváření, vydávání a při vyhodnocování jejího dodržování a požadavky na řízení bezpečnosti a kvality informačních systémů veřejné správy, stanoví prováděcí právní předpis.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5a odst. 2 zákona 365/2000"/>
+</archimate:BusinessObject>

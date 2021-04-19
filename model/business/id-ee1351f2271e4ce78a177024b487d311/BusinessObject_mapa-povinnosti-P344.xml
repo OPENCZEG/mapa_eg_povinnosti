@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Předat po ukončení činnosti evidenci vydaných prostředků pro elektronickou identifikaci"
+    id="mapa-povinnosti-P344"
+    documentation="Kvalifikovaný správce předá po ukončení své činnosti evidenci vydaných prostředků pro elektronickou identifikaci Ministerstvu vnitra.">
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. f) zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

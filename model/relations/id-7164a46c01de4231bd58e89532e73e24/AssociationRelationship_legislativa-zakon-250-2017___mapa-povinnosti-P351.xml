@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="určuje povinnost"
+    id="legislativa-zakon-250-2017___mapa-povinnosti-P351">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_legislativa-zakon-250-2017.xml#legislativa-zakon-250-2017"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_mapa-povinnosti-P351.xml#mapa-povinnosti-P351"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit přístupnost internetových stránek"
+    id="mapa-povinnosti-P101"
+    documentation="Povinný subjekt zajistí přístupnost svých internetových stránek, včetně všech rozhraní spadajících pod stránky a jejich obsahu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 zákona 99/2019"/>
+</archimate:BusinessObject>

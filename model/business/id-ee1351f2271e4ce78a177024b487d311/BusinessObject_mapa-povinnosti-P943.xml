@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stanovit seznam úkonů činěných prostřednictvím kontaktních míst"
+    id="mapa-povinnosti-P943"
+    documentation="Vláda stanoví nařízením seznam digitálních úkonů, na jejichž činění prostřednictvím kontaktního místa veřejné správy má uživatel služby právo.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 14 odst. 7 zákona 12/2020"/>
+</archimate:BusinessObject>

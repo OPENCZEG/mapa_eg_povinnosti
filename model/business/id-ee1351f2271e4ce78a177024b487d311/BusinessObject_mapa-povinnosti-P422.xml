@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Výjimka z obecné právní platnosti dokumentů odeslaných datovou schránkou orgánem veřejné moci"
+    id="mapa-povinnosti-P422"
+    documentation="Odesílá-li dokument prostřednictvím datové schránky orgán veřejné moci, neplatí obecná povinnost fikce právní platnosti dokumentu podle § 18 odst. 2 zákona 300/2008, neboť odesílaný dokument orgánu veřejné moci musí být vždy opatřen kvalifikovanými validačními prvky. Příjemce takového dokumentu od orgánu veřejné moci tedy nesmí postupovat podle § 18 odst. 2.">
+  <properties
+      key="Určuje"
+      value="zákon 499/2004 zákon 297/2016 a zákon 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Potvrdit doručení jako osvědčení o digitálním úkonu"
+    id="mapa-povinnosti-P916"
+    documentation="Orgán veřejné moci, který je veřejnoprávním původcem, je povinen bezodkladně po učinění digitálního úkonu poskytnout uživateli služby osvědčení o digitálním úkonu, který vůči němu uživatel služby učinil.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 3 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

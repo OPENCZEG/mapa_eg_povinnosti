@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyřizovat žádosti o poskytnutí informací"
+    id="mapa-povinnosti-P601"
+    documentation="Povinný subjekt postupuje při vyřizování žádostí o informace podle § 14 zákona 106/1999.">
+  <properties
+      key="Určuje"
+      value="§ 14 zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

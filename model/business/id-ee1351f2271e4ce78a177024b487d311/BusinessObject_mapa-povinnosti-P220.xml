@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stanovit v IK dlouhodobé cíle a řízení"
+    id="mapa-povinnosti-P220"
+    documentation="Orgány veřejné správy stanoví ve své informační koncepci své dlouhodobé cíle v oblasti řízení kvality a bezpečnosti spravovaných informačních systémů veřejné správy">
+  <properties
+      key="Určuje"
+      value="§ 5a odst 2 zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

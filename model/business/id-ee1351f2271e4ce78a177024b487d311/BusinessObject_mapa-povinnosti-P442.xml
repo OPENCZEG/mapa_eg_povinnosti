@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat Informační systém datových schránek"
+    id="mapa-povinnosti-P442"
+    documentation="Informační systém datových schránek je informačním systémem veřejné správy, který obsahuje informace o datových schránkách a jejich uživatelích. Správcem informačního systému datových schránek je Ministerstvo vnitra. Provozovatelem informačního systému datových schránek je držitel poštovní licence. Odměna držiteli poštovní licence za provozování informačního systému datových schránek se stanoví podle cenových předpisů. Náklady spojené s provozováním informačního systému datových schránek hradí stát z prostředků státního rozpočtu vyčleněných podle návrhu ministerstva pro stanovený účel v kapitole všeobecná pokladní správa.">
+  <properties
+      key="Určuje"
+      value="§ 14 odst. 2 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

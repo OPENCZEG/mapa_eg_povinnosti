@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přidělovat Identifikační číslo osoby a provozovny"
+    id="mapa-povinnosti-P755"
+    documentation="Správce registru osob poskytuje editorům k přidělení identifikační číslo osoby a identifikační číslo provozovny a odpovídá za jejich správnost.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 28 odst. 2 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

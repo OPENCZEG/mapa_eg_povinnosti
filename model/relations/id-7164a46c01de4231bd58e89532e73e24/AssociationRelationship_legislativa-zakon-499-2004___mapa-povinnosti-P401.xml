@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="určuje povinnost"
+    id="legislativa-zakon-499-2004___mapa-povinnosti-P401">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_legislativa-zakon-499-2004.xml#legislativa-zakon-499-2004"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_mapa-povinnosti-P401.xml#mapa-povinnosti-P401"/>
+</archimate:AssociationRelationship>

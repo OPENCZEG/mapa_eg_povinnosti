@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydat Spisový plán a realizovat ho"
+    id="mapa-povinnosti-P409"
+    documentation="Určení původci vydají spisový řád.. Součástí spisového řádu je spisový a skartační plán. Spisový a skartační plán obsahuje seznam typů dokumentů roztříděných do věcných skupin s vyznačenými spisovými znaky, skartačními znaky a skartačními lhůtami. Určení původci zasílají spisový a skartační plán příslušnému archivu bezodkladně po jeho vydání nebo změně. Příslušný archiv spisový a skartační plán uloží.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 66 odst. 2 zákona 499/2004"/>
+</archimate:BusinessObject>

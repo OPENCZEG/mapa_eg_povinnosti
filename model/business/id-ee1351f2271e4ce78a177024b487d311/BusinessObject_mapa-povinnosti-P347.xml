@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zneplatnit prostředek pro elektronickou identifikaci na základě žádosti držitele, nebo ohlášení držitele o zneužití"
+    id="mapa-povinnosti-P347"
+    documentation="Kvalifikovaný správce bez zbytečného odkladu zneplatní prostředek pro elektronickou identifikaci na základě žádosti držitele, nebo na základě ohlášení držitele o zneužití nebo hrozícím nebezpečí zneužití prostředku pro elektronickou identifikaci. Toto zneplatnění oznámí správci národního bodu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. h) a j) zákona 250/2017"/>
+</archimate:BusinessObject>

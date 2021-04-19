@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhodnout o udělení akreditace pro správu kvalifikovaného systému"
+    id="mapa-povinnosti-P320"
+    documentation="Ministerstvo vnitra rozhodne o udělení akreditace pro správu kvalifikovaného systému (dále jen „akreditace“) na základě písemné žádosti.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 1 zákona 250/2017"/>
+</archimate:BusinessObject>

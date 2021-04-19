@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zneplatnit a ohlásit správci národnímu bodu prostředek pro elektronickou identifikaci zemřelého držitele"
+    id="mapa-povinnosti-P345"
+    documentation="Kvalifikovaný správce bez zbytečného odkladu zneplatní prostředek pro elektronickou identifikaci držitele, o kterém se prokazatelně dozvěděl, že zemřel, nebo byl prohlášen za mrtvého, a toto zneplatnění oznámí správci národního bodu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. g) a j) zákona 250/2017"/>
+</archimate:BusinessObject>

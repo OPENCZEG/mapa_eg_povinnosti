@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyžádat si vyjádření správce národního bodu o systému elektronické identifikace žadatele o akreditaci"
+    id="mapa-povinnosti-P321"
+    documentation="Ministerstvo vnitra si vyžádá vyjádření správce národního bodu, zda systém elektronické identifikace žadatele o akreditaci umožňuje poskytnutí služby národního bodu.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 4 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

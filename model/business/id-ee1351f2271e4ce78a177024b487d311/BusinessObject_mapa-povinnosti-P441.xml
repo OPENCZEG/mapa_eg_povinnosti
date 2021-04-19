@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zrušit datovou schránku"
+    id="mapa-povinnosti-P441"
+    documentation="Ministerstvo vnitra zruší datovou schránku podle podmínek uvedených v § 13">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 zákona 300/2008"/>
+</archimate:BusinessObject>

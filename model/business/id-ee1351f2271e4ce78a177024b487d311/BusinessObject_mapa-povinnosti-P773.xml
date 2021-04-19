@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapisovat údaje o orgánech veřejné moci do Rejstříku OVM"
+    id="mapa-povinnosti-P773"
+    documentation="Orgán veřejné moci, který vede evidenci orgánů veřejné moci, pokud tyto orgány veřejné moci vznikají zápisem do této evidence nebo jiný právní předpis spojuje vznik těchto orgánů veřejné moci se zápisem do této evidence, nebo orgán veřejné moci, který uděluje oprávnění k výkonu působnosti orgánu veřejné moci, oznámí neprodleně vznik, přerušení nebo pozastavení výkonu působnosti anebo zánik orgánu veřejné moci Ministerstvu vnitra v elektronické podobě ve struktuře, kterou Ministerstvo vnitra zveřejní způsobem umožňujícím dálkový přístup. Není-li takový orgán veřejné moci, oznámí neprodleně vznik, přerušení nebo pozastavení výkonu působnosti anebo zánik orgánu veřejné moci ústřední správní úřad, jehož oblasti působnosti je vznik orgánu veřejné moci nejbližší, a není-li ho, Ministerstvo vnitra.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 52b odst. 2 zákona 111/2009"/>
+</archimate:BusinessObject>

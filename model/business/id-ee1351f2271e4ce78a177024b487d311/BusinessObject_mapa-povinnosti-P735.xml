@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Umožnit využívání údajů soukromoprávním uživatelům"
+    id="mapa-povinnosti-P735"
+    documentation="Správce agendového informačního systému umožní využívání údajů vedených v agendovém informačním systému soukromoprávnímu uživateli údajů v rozsahu, v jakém je oprávněn tyto údaje využívat podle tohoto zákona nebo podle jiného právního předpisu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 3 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

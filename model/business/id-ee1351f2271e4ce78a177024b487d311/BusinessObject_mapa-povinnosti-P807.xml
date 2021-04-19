@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout právnickému subjektu údaje z Registru práv a povinností na jeho žádost"
+    id="mapa-povinnosti-P807"
+    documentation="Subjektu, o němž jsou vedeny údaje v registru práv a povinností, nejde-li o fyzickou osobu, se údaje, které jsou k němu vedeny v registru práv a povinností, poskytnou obdobně podle § 58, není-li dále stanoveno jinak.">
+  <properties
+      key="Určuje"
+      value="§ 59 odst. 1 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

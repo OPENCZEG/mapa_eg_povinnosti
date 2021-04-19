@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Označit zpochybněný údaj"
+    id="mapa-povinnosti-P704"
+    documentation="V případě pochybnosti editor nebo správce základního registru označí referenční údaj jako nesprávný; toto označení editor odstraní neprodleně poté, co ověří správnost údajů, jinak se postupuje obdobně podle odstavce 3.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 4 věta druhá zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

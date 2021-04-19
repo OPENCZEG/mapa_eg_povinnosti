@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést evidenci certifikátů a osob nebo jejich součástí, kterým byl certifikát vydán"
+    id="mapa-povinnosti-P316"
+    documentation="Poskytuje-li Správa základních registrů službu vytvářející důvěru, jejímž předmětem je certifikát, který není certifikátem pro elektronický podpis, certifikátem pro elektronickou pečeť nebo certifikátem pro autentizaci internetových stránek, vede evidenci certifikátů a osob nebo jejich součástí, kterým byl certifikát vydán. Evidence obsahuje údaje dle § 15 odst. 2 písm. a) až d) zákona 297/2016.">
+  <properties
+      key="Určuje"
+      value="§ 15 odst. 1 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

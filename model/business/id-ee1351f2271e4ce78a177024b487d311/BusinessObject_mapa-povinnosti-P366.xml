@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést údaje o identifikátorech"
+    id="mapa-povinnosti-P366"
+    documentation="V národním bodu se vede identifikátor prostředku pro elektronickou identifikaci a údaj o úrovni záruky tohoto prostředku, agendový identifikátor držitele pro agendu autentizace, identifikátor držitele v rámci kvalifikovaného systému a identifikátor držitele v rámci on-line služby nebo jiné činnosti splňující požadavky stanovené přímo použitelným předpisem Evropské unie upravujícím rámec interoperability. Tyto údaje se uchovávají po dobu 15 let od skončení platnosti prostředku pro elektronickou identifikaci.">
+  <properties
+      key="Určuje"
+      value="§ 21 odst. 1 písm. a) až d) a odst. 5 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

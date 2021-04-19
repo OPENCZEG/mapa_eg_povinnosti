@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strpět elektronickou identifikaci"
+    id="mapa-povinnosti-P938"
+    documentation="Není-li v katalogu služeb pro využití digitální služby stanovena úroveň záruky prostředku pro elektronickou identifikaci, uživatel služby má právo provést svou identifikaci a autentizaci prostředkem pro elektronickou identifikaci podle své volby nejméně v úrovni značná.">
+  <properties
+      key="Určuje"
+      value="§ 12 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

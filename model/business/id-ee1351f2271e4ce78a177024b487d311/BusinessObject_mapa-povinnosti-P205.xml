@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Příprava a koordinace záměrů a programů pro rozvoj ISVS/UIS"
+    id="mapa-povinnosti-P205"
+    documentation="Ministerstvo vnitra ve spolupráci s orgány veřejné správy připravuje nebo koordinuje přípravu záměrů pro budování nebo přetváření informačních systémů veřejné správy">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm c) a d) zákona 365/2000"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tvorba a zajištění metodických pokynů k informačním činnostem a ISVS/UIS"
+    id="mapa-povinnosti-P207"
+    documentation="Ministerstvo vnitra zajišťuje tvorbu metodických pokynů pro výkon odborných činností spojených s vytvářením, správou, provozem, užíváním a rozvojem informačních systémů veřejné správy;">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm f) zákona 365/2000"/>
+</archimate:BusinessObject>

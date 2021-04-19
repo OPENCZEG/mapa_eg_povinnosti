@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uchovávat a zpřístupnit údaje vedené v evidenci vydaných prostředků pro elektronickou identifikaci kvalifikovaného správce, který ukončil činnost"
+    id="mapa-povinnosti-P361"
+    documentation="Ministerstvo vnitra uchovává údaje vedené v evidenci vydaných prostředků pro elektronickou identifikaci kvalifikovaného správce, který ukončil činnost, a tyto údaje zpřístupní tomu, kdo osvědčí právní zájem na jejich zpřístupnění, nebo stanoví-li to zákon.">
+  <properties
+      key="Určuje"
+      value="§ 19 odst. 1 písm. e) zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

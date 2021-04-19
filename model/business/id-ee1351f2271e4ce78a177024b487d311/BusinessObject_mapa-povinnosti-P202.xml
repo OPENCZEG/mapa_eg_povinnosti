@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vedení znalostní báze k informačním činnostem a informačním systémům"
+    id="mapa-povinnosti-P202"
+    documentation="Ministerstvo vnitra ve spolupráci s orgány veřejné správy vyhledává, zpracovává, ukládá a vytváří nové informace, které jsou znalostní základnou pro kvalitní vytváření a rozvoj informačních systémů veřejné správy">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm a) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

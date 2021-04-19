@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ohlásit agendu"
+    id="mapa-povinnosti-P779"
+    documentation="Ústřední správní úřad podle podmínek uvedených v § 53 zákona 111/2009 ohlásí agendu ve své působnosti.">
+  <properties
+      key="Určuje"
+      value="§ 53 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

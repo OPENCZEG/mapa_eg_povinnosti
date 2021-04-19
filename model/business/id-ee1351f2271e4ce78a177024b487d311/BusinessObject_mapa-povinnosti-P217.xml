@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Požádat o stanovisko OHA u projektů UIS"
+    id="mapa-povinnosti-P217"
+    documentation="OVS a správci určených informačních systémů jsou povinni předložit ministerstvu k vyjádření projekty určených informačních systémů.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm f) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

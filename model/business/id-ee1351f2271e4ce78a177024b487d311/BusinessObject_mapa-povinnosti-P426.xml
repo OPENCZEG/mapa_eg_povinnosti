@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat a rozvíjet ESSL podle zásad ISVS"
+    id="mapa-povinnosti-P426"
+    documentation="Původce, který je OVM a OVS má povinnost na elektronický systém spisové služby aplikovat principy zákona o ISVS, neboť ESSL je speciálním určeným informačním systémem podle zákona 365/2000.">
+  <properties
+      key="Určuje"
+      value="§ 1 odst. 4 písm. c) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

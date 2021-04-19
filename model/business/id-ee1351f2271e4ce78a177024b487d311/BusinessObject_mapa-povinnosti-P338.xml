@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Potvrdit žádost o udělení akreditace pro správu kvalifikovaného systému"
+    id="mapa-povinnosti-P338"
+    documentation="Splňuje-li prostředek pro elektronickou identifikaci a systém elektronické identifikace technické specifikace, normy a postupy stanovené příslušným předpisem Evropské unie, pověřená osoba písemně potvrdí tuto skutečnost žadateli o posouzení do 3 měsíců ode dne podání žádosti o posouzení. Neposuzuje-li prostředek pověřená osoba, potvrdí tuto skutečnost žadateli Ministerstvo vnitra.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 2 a § 14 zákona 250/2017"/>
+</archimate:BusinessObject>

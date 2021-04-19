@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyřizovat stížnosti na postup při vyřizování žádosti o informace"
+    id="mapa-povinnosti-P602"
+    documentation="Povinný subjekt vyřizuje stížnosti na postup při vyřizování žádosti o poskytnutí informací. Postupuje podle § 16a zákona 106/1999.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 16a zákona 106/1999"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Využívat pro údaje a jejich výměnu kód agendy"
+    id="mapa-povinnosti-P736"
+    documentation="Správce agendového informačního systému zajistí používání kódu agendy přiděleného správcem registru práv a povinností při komunikaci agendového informačního systému s informačním systémem základních registrů nebo informačním systémem sdílené služby.">
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 4 zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skartační řízení v ročních intervalech"
+    id="mapa-povinnosti-P401"
+    documentation="Skartační řízení je postup, při kterém se vyřazují dokumenty, jimž uplynuly skartační lhůty a jež jsou nadále nepotřebné pro činnost původce. Skartační řízení se provede v kalendářním roce následujícím po uplynutí skartační lhůty dokumentu. Skartační řízení může být po dohodě s příslušným archivem provedeno i později, pokud subjekt uvedený v § 7 odst. 4 dokumenty potřebuje pro další vlastní činnost.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 1 zákona 499/2004"/>
+</archimate:BusinessObject>

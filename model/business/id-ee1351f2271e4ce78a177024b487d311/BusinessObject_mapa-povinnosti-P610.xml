@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejnit postupy a životní situace"
+    id="mapa-povinnosti-P610"
+    documentation="Povinné subjekty musí zveřejnit a ve svém sídle zpřístupnit také postup, který musí povinný subjekt podle § 2 odst. 1 zákona 106/1999 dodržovat při vyřizování podání nebo podnětů, zveřejněný Ministerstvem vnitra na portálu veřejné správy v podobě popisu úkonů orgánu veřejné moci vedeného v základním registru agend, orgánů veřejné moci, soukromoprávních uživatelů údajů a některých práv a povinností.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm. c) zákona 106/1999"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm. c) zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

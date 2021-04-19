@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vydat výpis o adrese pobytu"
+    id="mapa-povinnosti-P742"
+    documentation="K ověřenému výstupu z informačního systému veřejné správy, který je vydán z registru obyvatel a který obsahuje údaj o adrese místa pobytu, kontaktní místo veřejné správy na žádost přiloží vícejazyčný standardní formulář vyhotovený podle přímo použitelného předpisu Evropské unie.">
+  <properties
+      key="Určuje"
+      value="§ 14 odst. 1 věta druhá zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

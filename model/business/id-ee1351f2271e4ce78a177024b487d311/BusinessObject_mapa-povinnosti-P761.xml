@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejnit a zpřístupnit Registr územní identifikace"
+    id="mapa-povinnosti-P761"
+    documentation="Registr územní identifikace je veřejným seznamem.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 30 odst. 1 zákona 111/2009"/>
+</archimate:BusinessObject>

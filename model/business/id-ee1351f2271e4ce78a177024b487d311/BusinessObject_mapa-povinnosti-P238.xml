@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapsat aktuálně užívaný cloud do Katalogu cloudu"
+    id="mapa-povinnosti-P238"
+    documentation="Orgán veřejné správy zapíše cloud computing, který využívá ke dni nabytí účinnosti tohoto zákona, do katalogu cloud computingu do 3 měsíců ode dne nabytí účinnosti tohoto zákona.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="zákon 365/2000, § 17 zákona 12/2020"/>
+</archimate:BusinessObject>

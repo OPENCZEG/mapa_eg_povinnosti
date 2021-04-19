@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Převod a doplnění metadat k dokumentům i při vedení listinné spisové služby"
+    id="mapa-povinnosti-P403"
+    documentation="Původce, který nevykonává spisovou službu v elektronické podobě v elektronických systémech spisové služby, převede dokument v digitální podobě určený k výběru archiválií mimo skartační řízení do výstupního datového formátu stanoveného prováděcím právním předpisem a opatří ho metadaty stanovenými prováděcím právním předpisem podle § 19 písm. g), a to nejpozději při přípravě výběru archiválií mimo skartační řízení. Pokud dokument nelze převést do stanoveného datového formátu a opatřit ho metadaty, a to ani ve spolupráci s příslušným archivem, dokument jeho původce převede do analogové podoby.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 5 zákona 499/2004"/>
+</archimate:BusinessObject>

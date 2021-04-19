@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Předat přístupové údaje k datové schránce"
+    id="mapa-povinnosti-P436"
+    documentation="Ministerstvo vnitra zašle do vlastních rukou přístupové údaje k datové schránce osobě uvedené v § 8 odst. 1 až 4, bezodkladně po zřízení datové schránky. V případě datové schránky zřízené na základě žádosti podané způsobem podle § 27 odst. 4 ministerstvo zašle přístupové údaje pouze na žádost osoby uvedené v § 8 odst. 1 nebo 2.">
+  <properties
+      key="Určuje"
+      value="§ 10 odst. 1 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

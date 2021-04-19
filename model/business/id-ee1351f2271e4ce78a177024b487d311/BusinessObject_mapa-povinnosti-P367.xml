@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyrozumět správce národního bodu o konci umožnění prokázání totožnosti s využitím elektronické identifikace"
+    id="mapa-povinnosti-P367"
+    documentation="Ten, kdo přestal umožňovat prokázání totožnosti, které vyžaduje právní předpis nebo výkon působnosti, s využitím elektronické identifikace, vyrozumí o této skutečnosti bez zbytečného odkladu správce národního bodu. Vyrozumění se činí prostřednictvím elektronické aplikace spravované správcem národního bodu.">
+  <properties
+      key="Určuje"
+      value="§ 18 odst. 2 a 3 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 21 odst. 2 písm. a) až c) a odst. 5 zákona 250/2017"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat Informační systém územní identifikace"
+    id="mapa-povinnosti-P762"
+    documentation="Správcem informačního systému územní identifikace je Český úřad zeměměřický a katastrální, který vykonává též zvláštní právo pořizovatele databáze tohoto systému. Informační systém územní identifikace je majetkem České republiky.">
+  <properties
+      key="Určuje"
+      value="§ 39 odst. 4 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

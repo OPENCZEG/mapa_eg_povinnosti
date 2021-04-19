@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit dodávání datových zpráv"
+    id="mapa-povinnosti-P466"
+    documentation="Ministerstvo vnitra zajišťuje dodávání datových zpráv a provádí kroky uvedené v § 20.">
+  <properties
+      key="Určuje"
+      value="§ 20 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

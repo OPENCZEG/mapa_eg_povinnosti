@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Považovat jako soukromoprávní uživatel referenční údaje za správné"
+    id="mapa-povinnosti-P716"
+    documentation="Soukromoprávní uživatel údajů využívá referenční údaje vedené v základním registru, aniž by ověřoval jejich správnost.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5a odst. 4 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odborná způsobilost zaměstnanců mimo OVM k autorizované konverzi na žádost"
+    id="mapa-povinnosti-P474"
+    documentation="Konverzi na žádost provádí u držitele poštovní licence, Hospodářské komory České republiky a osoby, které byla ministerstvem udělena autorizace k výkonu působnosti kontaktního místa veřejné správy, zaměstnanec, který složil zkoušku; složení zkoušky se nevyžaduje, splňuje-li zaměstnanec požadavky pro provádění vidimace a legalizace.">
+  <properties
+      key="Určuje"
+      value="§ 30 odst. 1 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

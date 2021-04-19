@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejnit veřejné seznamy a rejstříky v elektronické podobě"
+    id="mapa-povinnosti-P614"
+    documentation="Povinné subjekty, které vedou a spravují registry, evidence, seznamy nebo rejstříky obsahující informace, které jsou na základě zvláštního zákona každému přístupné, jsou tyto informace povinny zveřejňovat v přehledné formě způsobem umožňujícím i dálkový přístup. Na tyto subjekty se pro tento účel nevztahuje povinnost zamezit sdružování informací podle zvláštního právního předpisu.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 5 zákona 106/1999"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

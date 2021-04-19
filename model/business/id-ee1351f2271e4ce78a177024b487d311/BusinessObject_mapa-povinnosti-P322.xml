@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rozhodnout o žádosti o udělení akreditace pro správu kvalifikovaného systému"
+    id="mapa-povinnosti-P322"
+    documentation="Ministerstvo vnitra rozhodne o žádosti o udělení akreditace do 3 měsíců ode dne jejího podání. Splňuje-li žadatel o akreditaci podmínky pro udělení akreditace, ministerstvo udělí akreditaci. V opačném případě ministerstvo žádost zamítne.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 6 zákona 250/2017"/>
+</archimate:BusinessObject>

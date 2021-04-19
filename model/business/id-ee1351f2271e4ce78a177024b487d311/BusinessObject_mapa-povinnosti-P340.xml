@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uvést v plánu ukončení postupy při ukončení vydávání a používání prostředků pro elektronickou identifikaci a poskytnutí služby autentizace"
+    id="mapa-povinnosti-P340"
+    documentation="Státní orgán nebo žadatel o akreditaci v plánu ukončení činnosti uvede postupy při ukončení vydávání a používání prostředků pro elektronickou identifikaci a poskytnutí služby autentizace, včetně způsobu, jakým jsou správce národního bodu a držitelé prostředků pro elektronickou identifikaci informováni o ukončení činnosti kvalifikovaného správce.">
+  <properties
+      key="Určuje"
+      value="§ 15 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

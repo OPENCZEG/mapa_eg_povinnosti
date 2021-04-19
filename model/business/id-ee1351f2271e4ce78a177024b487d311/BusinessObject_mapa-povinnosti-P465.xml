@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opatřit datovou zprávu v ISDS validačními prvky"
+    id="mapa-povinnosti-P465"
+    documentation="Ministerstvo vnitra připojí k datové zprávě odeslané z datové schránky data prokazující existenci datové zprávy k okamžiku jejího odeslání z datové schránky.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 20 odst. 1 písm. a) zákona 300/2008"/>
+</archimate:BusinessObject>

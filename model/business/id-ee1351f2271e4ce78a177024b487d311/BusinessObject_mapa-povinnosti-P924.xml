@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit zápis právní skutečnosti do Registru práv a povinností"
+    id="mapa-povinnosti-P924"
+    documentation="Právo na zápis práva, povinnosti nebo právní skutečnosti uplatní uživatel služby prostřednictvím Ministerstva vnitra u příslušného orgánu veřejné moci, který učinil podkladový úkon. Příslušný orgán veřejné moci osvědčí existenci práva, povinnosti nebo právní skutečnosti a potvrdí ji Ministerstvu vnitra, které ji zapíše do registru práv a povinností.">
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 2 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

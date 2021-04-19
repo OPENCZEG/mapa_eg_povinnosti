@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strpět náhradu ověřeného podpisu digitálním dokumentem"
+    id="mapa-povinnosti-P918"
+    documentation="Stanoví-li právní předpis požadavek úředního ověření vlastnoručního podpisu nebo uznávaného elektronického podpisu, považuje se za splněný využitím elektronického podpisu na dokumentu nedílně spojeném s kvalifikovaným elektronickým podpisem osoby oprávněné provádět ověřování pravosti podpisu, která postupem podle jiného právního předpisu ověřila, že podepisující dokument před ní podepsal nebo uznal podpis za vlastní, a kvalifikovaným elektronickým časovým razítkem, nebo se záznamem informačního systému veřejné správy opatřeným kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým časovým razítkem jeho správce o provedení elektronické identifikace podepisujícího prostřednictvím kvalifikovaného systému elektronické identifikace s úrovní záruky vysoká.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 6 odst. 1 zákona 12/2020"/>
+</archimate:BusinessObject>

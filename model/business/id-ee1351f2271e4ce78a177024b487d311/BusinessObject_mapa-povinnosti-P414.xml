@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="U výstupu z jiné konverze přidat konverzní doložku s příslušnými dokumenty"
+    id="mapa-povinnosti-P414"
+    documentation="Původce při konverzi připojí konverzní doložku s povinnými údaji uvedenými ve vyhlášce 259/2012 a výstup opatří podpisem nebo pečetí a časovým razítkem.">
+  <properties
+      key="Určuje"
+      value="§ 69a odst. 4 zákona 499/2004"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ve své informační koncepci řešit správu dokumentů a integraci ESSL a ISSD"
+    id="mapa-povinnosti-P419"
+    documentation="Orgán veřejné moci, který má podle zákona 365/2000 povinnost mít svoji informační koncepci, musí v této informační koncepci pochopitelně řešit na byznysové i technické úrovni správu dokumentů, příjem a odesílání datových zpráv podatelnou a výpravnou a integraci a vazby svých ESSL a ISSD systémů a také komplexně pojímat svoje systémy jako ISSD se všemi souvislostmi. Musí splnit podmínky a povinnosti výkonu spisové služby jako celku a musí splnit soulad s příslušnými principy IKČR a oblastmi v Národním architektonickém plánu.">
+  <properties
+      key="Určuje"
+      value="zákon 365/2000 a vyhláška 529/2006"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

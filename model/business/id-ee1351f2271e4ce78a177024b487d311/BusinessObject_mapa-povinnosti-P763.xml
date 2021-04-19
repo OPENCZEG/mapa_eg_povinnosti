@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zpřístupnit a zveřejnit Informační systém územní identifikace"
+    id="mapa-povinnosti-P763"
+    documentation="Informační systém územní identifikace je veřejným seznamem.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 39 odst. 3 zákona 111/2009"/>
+</archimate:BusinessObject>

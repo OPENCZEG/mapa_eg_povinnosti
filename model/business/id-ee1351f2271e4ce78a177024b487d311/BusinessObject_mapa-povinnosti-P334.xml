@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pověřit posuzováním osobu pověřenou k provádění atestací"
+    id="mapa-povinnosti-P334"
+    documentation="Ministerstvo vnitra pověří posuzováním prostředku pro elektronickou identifikaci a systému elektronické identifikace na základě žádosti osobu pověřenou k provádění atestací podle zákona o informačních systémech veřejné správy. Pověření k posuzování prostředku pro elektronickou identifikaci a systému elektronické identifikace nelze převést na jinou osobu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 2 zákona 250/2017"/>
+</archimate:BusinessObject>

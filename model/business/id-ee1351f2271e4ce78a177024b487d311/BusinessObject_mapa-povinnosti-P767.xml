@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapisovat údaje o stavebním objektu"
+    id="mapa-povinnosti-P767"
+    documentation="Údaje o definičním bodu stavebního objektu, typu stavebního objektu, způsobu jeho využití a jeho technickoekonomických atributech zapisuje editor těchto údajů, kterým je příslušný stavební úřad.">
+  <properties
+      key="Určuje"
+      value="§ 42 odst. 2 písm. a) a b), zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

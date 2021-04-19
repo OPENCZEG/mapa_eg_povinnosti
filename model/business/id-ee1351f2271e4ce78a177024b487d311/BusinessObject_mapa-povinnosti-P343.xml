@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapsat a aktualizovat identifikátor vydaného prostředku pro elektronickou identifikaci a úroveň záruky tohoto prostředku do národního bodu"
+    id="mapa-povinnosti-P343"
+    documentation="Kvalifikovaný správce zapíše identifikátor jím vydaného prostředku pro elektronickou identifikaci a úroveň záruky tohoto prostředku do národního bodu a aktualizuje údaje v evidenci vydaných prostředků pro elektronickou identifikaci na základě upozornění správce národního bodu na změny údajů.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 1 písm. d) a e) zákona 250/2017"/>
+</archimate:BusinessObject>

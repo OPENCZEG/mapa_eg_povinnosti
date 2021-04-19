@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ukládat vyřízené dokumenty a spisy ve Spisovně"
+    id="mapa-povinnosti-P412"
+    documentation="Všechny vyřízené spisy a jiné dokumenty určeného původce jsou po dobu trvání skartační lhůty uloženy ve spisovně.">
+  <properties
+      key="Určuje"
+      value="§ 68 odst. 1 zákona 499/2004"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

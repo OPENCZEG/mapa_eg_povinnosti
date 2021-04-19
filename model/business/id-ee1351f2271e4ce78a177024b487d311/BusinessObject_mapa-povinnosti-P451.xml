@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vymazat držitele datové schránky z veřejného seznamu na jeho žádost"
+    id="mapa-povinnosti-P451"
+    documentation="Na žádost fyzické osoby, která má zřízenu a zpřístupněnu datovou schránku, se údaje o ní vedené v seznamu držitelů datových schránek zlikvidují.">
+  <properties
+      key="Určuje"
+      value="§ 14b odst. 4 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

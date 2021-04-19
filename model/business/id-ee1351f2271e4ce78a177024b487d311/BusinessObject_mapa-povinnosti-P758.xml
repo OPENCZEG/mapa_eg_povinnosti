@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat Integrovaný agendový informační systém"
+    id="mapa-povinnosti-P758"
+    documentation="Český statistický úřad spravuje integrovaný agendový informační systém registru osob, který slouží k zápisu referenčních údajů do registru osob, popřípadě se souhlasem správce registru osob k vedení údajů potřebných k výkonu agendy spojené s evidencí subjektů zapisovaných do registru osob v rozsahu stanoveném jiným právním předpisem.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 28 odst. 5 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

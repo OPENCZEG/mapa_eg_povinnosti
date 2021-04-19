@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zodpovídat za škodu způsobenou špatným využíváním přístupového rozhraní ISDS"
+    id="mapa-povinnosti-P444"
+    documentation="Poskytovatel internetových služeb odpovídá za škodu způsobenou v souvislosti s využíváním přístupového rozhraní. Poskytovatel internetových služeb se odpovědnosti zprostí, prokáže-li, že škodě nemohlo být zabráněno ani při vynaložení veškerého úsilí, které lze na něm požadovat.">
+  <properties
+      key="Určuje"
+      value="§ 14a odst. 3 a 5 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přistupovat k základním registrům prostřednictvím ISZR"
+    id="mapa-povinnosti-P712"
+    documentation="Orgán veřejné moci využívá údaje vedené v základním registru nebo údaje do základního registru zapisuje prostřednictvím agendového informačního systému; jeho přístup k údajům vedeným v základním registru je zajišťován službami informačního systému základních registrů. Orgán veřejné moci využívá údaje vedené v agendovém informačním systému prostřednictvím služeb tohoto agendového informačního systému; není-li orgán veřejné moci současně správcem tohoto agendového informačního systému, je jeho přístup k údajům zajišťován službami informačního systému sdílené služby. Orgán veřejné moci zapisuje údaje do agendového informačního systému prostřednictvím služeb tohoto agendového informačního systému.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 5 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

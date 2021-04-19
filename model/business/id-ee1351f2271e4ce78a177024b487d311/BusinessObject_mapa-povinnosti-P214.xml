@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Požádat o stanovisko OHA před spuštěním či změnou služeb UIS"
+    id="mapa-povinnosti-P214"
+    documentation="OVS a správci určených informačních systémů jsou povinni předložit ministerstvu, před zahájením poskytování služby informačního systému veřejné správy určeným informačním systémem, provozní dokumentaci určeného informačního systému k posouzení, zda určený informační systém splňuje požadavky kladené na něj právními předpisy, informační koncepcí orgánu veřejné správy a provozní dokumentací, a jde-li o informační systém veřejné správy spravovaný orgánem veřejné správy, pro něhož jsou závazná usnesení vlády, rovněž informační koncepcí České republiky a jinými usneseními vlády.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm c) zákona 365/2000"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

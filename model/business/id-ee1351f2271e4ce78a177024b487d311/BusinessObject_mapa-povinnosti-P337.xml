@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odejmout pověření na žádost osoby pověřené k provádění atestací"
+    id="mapa-povinnosti-P337"
+    documentation="Ministerstvo odejme pověření, jestliže o to pověřená osoba písemně požádala">
+  <properties
+      key="Určuje"
+      value="§ 12 odst. 2 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 12 odst. 1 zákona 250/2017"/>
+</archimate:BusinessObject>

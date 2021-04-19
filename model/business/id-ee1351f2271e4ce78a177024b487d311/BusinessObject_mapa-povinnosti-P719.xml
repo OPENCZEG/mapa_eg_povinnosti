@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provozovat vybrané systémy základních registrů"
+    id="mapa-povinnosti-P719"
+    documentation="Správa základních registrů zajišťuje provoz informačního systému základních registrů, informačního systému sdílené služby, registru obyvatel, registru osob a registru práv a povinností.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst. 2 písm. a) zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

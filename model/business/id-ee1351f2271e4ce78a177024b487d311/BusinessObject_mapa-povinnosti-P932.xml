@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Přístup k údajům"
+    id="mapa-povinnosti-P932"
+    documentation="Uživatel služby je oprávněn přistupovat k údajům vedeným o něm v základních registrech a agendových informačních systémech. Orgán veřejné moci zajistí prostřednictvím digitální služby portálu veřejné správy přístup uživatele služby k těmto údajům.">
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 1 zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uveřejnit elektronický formulář pro zasílání smluv"
+    id="mapa-povinnosti-P507"
+    documentation="Správce registru smluv uveřejní elektronický formulář pro zasílání smluv na portálu veřejné správy.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 3 zákona 340/2015"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

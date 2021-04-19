@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vytvářet a vést zdrojové identifikátory fyzických osob"
+    id="mapa-povinnosti-P740"
+    documentation="Úřad pro ochranu osobních údajů vytváří zdrojové identifikátory fyzických osob a agendové identifikátory fyzických osob a vede jejich seznamy.">
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 1 písm. a) zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

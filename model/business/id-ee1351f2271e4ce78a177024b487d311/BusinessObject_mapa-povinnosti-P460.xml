@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strpět doručování soukromoprávním subjektem prostřednictvím datové schránky"
+    id="mapa-povinnosti-P460"
+    documentation="Fyzická osoba, podnikající fyzická osoba a právnická osoba může provádět úkon vůči orgánu veřejné moci, má-li zpřístupněnu svou datovou schránku a umožňuje-li to povaha tohoto úkonu, prostřednictvím datové schránky.">
+  <properties
+      key="Určuje"
+      value="§ 18 odst. 1 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sdělit důvody nesplnění technických požadavků"
+    id="mapa-povinnosti-P339"
+    documentation="Nesplňuje-li prostředek pro elektronickou identifikaci a systém elektronické identifikace technické specifikace, normy a postupy stanovené příslušným předpisem Evropské unie, pověřená osoba písemně vyrozumí o této skutečnosti žadatele o posouzení do 3 měsíců ode dne podání žádosti o posouzení a sdělí mu důvody nesplnění požadavků. Neposuzuje-li prostředek pověřená osoba, vyrozumí žadatele Ministerstvo vnitra.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 4 a § 14 zákona 250/2017"/>
+</archimate:BusinessObject>

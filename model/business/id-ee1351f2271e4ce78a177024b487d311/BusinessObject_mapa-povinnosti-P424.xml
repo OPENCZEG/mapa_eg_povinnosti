@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sledovat a hlídat správní lhůty u spisů a dokumentů"
+    id="mapa-povinnosti-P424"
+    documentation="Původce, který je jako OVM vázán Správním řádem či jinými správně-procesními předpisy, musí zajistit dodržování lhůt pro svoje úřední a správní činnosti. Vzhledem k tomu, že [Elektronický systém spisové služby] a každý úřední [Informační systém pro správu dokumentů] slouží jako evidence pro správní činnosti, musí být takový systém připraven na záznam a sledování a hlídání lhůt pro vyřízení věci ve správní lhůtě. To se týká i vyřizování a reakce na dokumenty a spisy.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="zákon 500/2004 a ostatní procesní předpisy"/>
+</archimate:BusinessObject>

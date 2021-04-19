@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat Registr osob"
+    id="mapa-povinnosti-P754"
+    documentation="Správcem registru osob je Český statistický úřad.">
+  <properties
+      key="Určuje"
+      value="§ 28 odst. 1 zákona č. 111/2009 SB o základních registrech"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

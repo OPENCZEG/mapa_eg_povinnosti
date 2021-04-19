@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejňovat seznamy týkající se kvalifikovaných poskytovatelů služeb vytvářejících důvěru a jimi poskytovaných kvalifikovaných službách vytvářejících důvěru"
+    id="mapa-povinnosti-P312"
+    documentation="Ministerstvo vnitra zveřejňuje způsobem umožňujícím dálkový přístup důvěryhodné seznamy obsahující informace týkající se kvalifikovaných poskytovatelů služeb vytvářejících důvěru spolu s informacemi o jimi poskytovaných kvalifikovaných službách vytvářejících důvěru.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 3 zákona 297/2016"/>
+</archimate:BusinessObject>

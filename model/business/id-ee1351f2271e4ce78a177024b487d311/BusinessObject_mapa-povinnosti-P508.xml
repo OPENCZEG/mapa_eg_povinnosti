@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Potvrdit uveřejnění v registru smluv"
+    id="mapa-povinnosti-P508"
+    documentation="V případě, že je prostřednictvím registru smluv uveřejněna smlouva, správce registru smluv potvrdí uveřejnění potvrzením, které zašle do datové schránky, ze které mu byla smlouva zaslána k uveřejnění prostřednictvím registru smluv; zaslání potvrzení se provádí zpravidla automatizovaně. Správce registru smluv v potvrzení uvede metadata smlouvy - identifikaci smluvních stran, vymezení předmětu smlouvy, cenu, a pokud ji smlouva neobsahuje, hodnotu předmětu smlouvy, lze-li ji určit, datum uzavření smlouvy - a potvrzení zabezpečí způsobem zajišťujícím integritu, případně původ dat.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 4 zákona 340/2015"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

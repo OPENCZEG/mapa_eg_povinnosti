@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obstarat si výpis z evidence Rejstříku trestů pro poskytovatele QRSP"
+    id="mapa-povinnosti-P332"
+    documentation="Ministerstvo vnitra si vyžádá výpis z evidence Rejstříku trestů za účelem zjištění bezúhonnosti podle zákona o Rejstříku trestů. Žádost o vydání výpisu z evidence Rejstříku trestů a výpis z evidence Rejstříku trestů se předává v elektronické podobě, a to způsobem umožňujícím dálkový přístup.">
+  <properties
+      key="Určuje"
+      value="§ 10 odst. 6 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

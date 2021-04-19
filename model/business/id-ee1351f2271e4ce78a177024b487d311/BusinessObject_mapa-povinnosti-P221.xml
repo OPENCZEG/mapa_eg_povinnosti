@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stanovit v IK obecné principy pro ISVS"
+    id="mapa-povinnosti-P221"
+    documentation="Orgány veřejné správy stanoví ve své informační koncepci obecné principy pořizování, vytváření, správy a provozování svých informačních systémů veřejné správy.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5a odst 2 zákona 365/2000"/>
+</archimate:BusinessObject>

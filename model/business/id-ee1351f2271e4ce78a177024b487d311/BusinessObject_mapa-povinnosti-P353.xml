@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minimalizovat možnost zneužití prostředku pro elektronickou identifikaci"
+    id="mapa-povinnosti-P353"
+    documentation="Držitel prostředku pro elektronickou identifikaci zachází s prostředkem pro elektronickou identifikaci s náležitou péčí tak, aby minimalizoval možnost jeho zneužití.">
+  <properties
+      key="Určuje"
+      value="§ 17 písm. b) zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

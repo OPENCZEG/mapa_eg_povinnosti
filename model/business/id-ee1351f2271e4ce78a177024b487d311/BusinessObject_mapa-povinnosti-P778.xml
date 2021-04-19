@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapsat informační systém do Rejstříku ISVS"
+    id="mapa-povinnosti-P778"
+    documentation="Orgán veřejné moci, který je správcem informačního systému veřejné správy, zašle podklady pro zápis údajů o jím spravovaném informačním systému veřejné správy v elektronické podobě ve struktuře, kterou Ministerstvo vnitra zveřejní způsobem umožňujícím dálkový přístup. Ministerstvo vnitra na základě podkladů podle odstavce 2 zapíše údaje o informačním systému veřejné správy do rejstříku informačních systémů veřejné správy a přidělí informačnímu systému veřejné správy jednoznačný identifikátor, který zapíše do rejstříku informačních systémů veřejné správy.">
+  <properties
+      key="Určuje"
+      value="§ 52c odst. 2 a 3 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

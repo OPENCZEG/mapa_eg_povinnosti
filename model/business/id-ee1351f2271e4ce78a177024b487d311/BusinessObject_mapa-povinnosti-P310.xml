@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opatřit zapečetěný elektronický dokument kvalifikovaným elektronickým časovým razítkem"
+    id="mapa-povinnosti-P310"
+    documentation="Veřejnoprávní podepisující, který zapečetil elektronický dokument, kterým právně jedná, a osoba, která zapečetila elektronický dokument, kterým právně jedná při výkonu své působnosti, opatří zapečetěný elektronický dokument kvalifikovaným elektronickým časovým razítkem.">
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 2 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

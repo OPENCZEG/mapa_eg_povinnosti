@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejnit a poskytovat údaje o osobách z Registru osob"
+    id="mapa-povinnosti-P808"
+    documentation="Referenční údaje a provozní údaje vedené o osobách v Registru osob jsou až na vyjímky veřejné. Podrobnosti k rozsahu údajů stanovuje § 61 odst. 1 zákona 111/2009.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 61 odst. 1 zákona 111/2009"/>
+</archimate:BusinessObject>

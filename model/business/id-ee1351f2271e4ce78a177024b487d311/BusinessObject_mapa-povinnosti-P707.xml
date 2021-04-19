@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zapsat údaje do agendového informačního systému nebo jejich změnu"
+    id="mapa-povinnosti-P707"
+    documentation="Editor zapíše údaj do agendového informačního systému nebo provede jeho změnu bez zbytečného odkladu, nejpozději však do 10 pracovních dnů ode dne, kdy se dozví o vzniku nebo o změně skutečnosti, kterou údaj popisuje.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4a odst. 3 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

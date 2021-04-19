@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidovat údaje o certifikátech po stanovenou dobu"
+    id="mapa-povinnosti-P318"
+    documentation="Vede-li Správa základních registrů evidenci certifikátů a osob nebo jejich součástí, kterým byl certifikát vydán, eviduje údaje o certifikátech v rozsahu identifikátor, počátek a konec platnosti, datum a čas aktivace a datum a čas zneplatnění po dobu jejich platnosti a následujících 15 let po ukončení jejich platnosti.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 15 odst. 4 zákona 297/2016"/>
+</archimate:BusinessObject>

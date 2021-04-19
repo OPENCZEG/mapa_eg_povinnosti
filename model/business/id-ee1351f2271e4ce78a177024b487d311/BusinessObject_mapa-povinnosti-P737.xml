@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Využívat vlastní identifikátory osob pro vlastní potřebu"
+    id="mapa-povinnosti-P737"
+    documentation="Správce agendového informačního systému používá vlastní identifikátory fyzických osob a právnických osob.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 5 zákona č. 111/2009 SB o základních registrech"/>
+</archimate:BusinessObject>

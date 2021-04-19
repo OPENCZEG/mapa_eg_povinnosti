@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaslat smlouvu správci registru smluv k uveřejnění"
+    id="mapa-povinnosti-P505"
+    documentation="Osoba uvedená v § 2 odst. 1 nebo smluvní strana smlouvy zašle smlouvu správci registru smluv k uveřejnění prostřednictvím registru smluv bez zbytečného odkladu, nejpozději však do 30 dnů od uzavření smlouvy. Zaslání smlouvy správci registru smluv se provede na elektronickém formuláři do datové schránky zřízené správci registru smluv pro tento účel.">
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 a 3 zákona 340/2015"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

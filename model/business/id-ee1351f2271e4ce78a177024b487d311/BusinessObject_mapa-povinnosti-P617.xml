@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout informace a údaje o veřejně činných osobách a o jejich činnostech"
+    id="mapa-povinnosti-P617"
+    documentation="Povinný subjekt poskytne osobní údaje o veřejně činné osobě, funkcionáři nebo zaměstnanci veřejné správy, které vypovídají o jeho veřejné nebo úřední činnosti nebo o jeho funkčním nebo pracovním zařazení.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 8a odst. 2 zákona 106/1999"/>
+</archimate:BusinessObject>

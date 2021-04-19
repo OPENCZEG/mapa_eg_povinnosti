@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Umožnit digitální úkon prostřednictvím doručeného digitálního dokumentu"
+    id="mapa-povinnosti-P906"
+    documentation="Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím sítě elektronických komunikací dokumentem podepsaným uznávaným elektronickým podpisem nebo opatřeným uznávanou elektronickou pečetí za podmínek stanovených jinými zákony.">
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 1 písm. c) zákona 12/2020"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

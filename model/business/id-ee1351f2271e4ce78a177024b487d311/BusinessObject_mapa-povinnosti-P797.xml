@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spravovat Autentizační informační systém"
+    id="mapa-povinnosti-P797"
+    documentation="Správcem autentizačního informačního systému je Ministerstvo vnitra.">
+  <properties
+      key="Určuje"
+      value="§ 56a odst. 2 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

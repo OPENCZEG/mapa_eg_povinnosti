@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Platit za užívání přístupového rozhraní ISDS"
+    id="mapa-povinnosti-P446"
+    documentation="Poskytovatel internetových služeb platí za využívání přístupového rozhraní roční poplatek vypočtený jako součin částky 100 Kč a počtu uživatelských účtů k jeho službám, pro které v daném kalendářním roce využil přístupového rozhraní. Poplatek se platí do 31. ledna následujícího kalendářního roku. Poplatek je příjmem státního rozpočtu, vybírá jej Ministerstvo vnitra.">
+  <properties
+      key="Určuje"
+      value="§ 14a odst. 4 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

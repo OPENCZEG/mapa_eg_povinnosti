@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Požádat o stanovisko OHA k programům a projektům ISVS"
+    id="mapa-povinnosti-P218"
+    documentation="OVS a správci určených informačních systémů jsou povinni předložit ministerstvu k vyjádření návrhy dokumentací programů obsahujících pořízení nebo technické zhodnocení určených informačních systémů a investiční záměry akcí pořízení nebo technického zhodnocení určených informačních systémů. Povinnost, podle věty první, se nevztahuje na technické zhodnocení určeného informačního systému spočívající jen ve změnách nemajících vliv na vnitřní vazby tohoto určeného informačního systému, nebo na vazby na jiné informační systémy veřejné správy.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 5 odst. 2 písm. b) zákona 365/2000"/>
+</archimate:BusinessObject>

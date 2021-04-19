@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Odejmout akreditaci pro správu kvalifikovaného systému na žádost"
+    id="mapa-povinnosti-P329"
+    documentation="Ministerstvo vnitra odejme akreditaci, jestliže o to akreditovaná osoba písemně požádala.">
+  <properties
+      key="Určuje"
+      value="§ 7 odst. 2 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

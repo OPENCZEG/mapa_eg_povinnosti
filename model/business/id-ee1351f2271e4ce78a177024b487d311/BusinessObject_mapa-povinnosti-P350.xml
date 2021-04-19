@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit kvalifikované fyzické osoby pro řídící činnosti při správě kvalifikovaného systému"
+    id="mapa-povinnosti-P350"
+    documentation="Kvalifikovaný správce zajistí, aby řídící činnosti při správě kvalifikovaného systému vykonávaly fyzické osoby, které získaly vysokoškolské vzdělání v rámci akreditovaného bakalářského nebo magisterského studijního programu a mají praxi v oblasti informačních technologií v délce nejméně 3 let, nebo fyzické osoby, které získaly středoškolské vzdělání a mají praxi v oblasti informačních technologií v délce nejméně 5 let.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 16 odst. 2 zákona 250/2017"/>
+</archimate:BusinessObject>

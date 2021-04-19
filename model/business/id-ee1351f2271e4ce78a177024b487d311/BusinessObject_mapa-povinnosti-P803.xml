@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Řešit žádost o poskytnutí údajů z ROB a RPP jako oslovený obecní úřad"
+    id="mapa-povinnosti-P803"
+    documentation="Žádost o poskytnutí údajů z registru obyvatel a registru práv a povinností může subjekt údajů zaslat také v listinné podobě kterémukoliv obecnímu úřadu obce s rozšířenou působností, krajskému úřadu a v případě údajů z registru obyvatel také Ministerstvu vnitra; žádost musí být opatřena úředně ověřeným podpisem. Úředně ověřený podpis se nevyžaduje, je-li žádost podepsána před zaměstnancem zařazeným ve správním orgánu, vůči kterému směřuje.">
+  <properties
+      key="Určuje"
+      value="§ 58 odst. 3 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

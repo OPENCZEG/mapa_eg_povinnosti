@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strpět úkon v jakékoliv formě pokud není elektronický formulář"
+    id="mapa-povinnosti-P912"
+    documentation="Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 4 odst. 3 věta třetí zákona 12/2020"/>
+</archimate:BusinessObject>

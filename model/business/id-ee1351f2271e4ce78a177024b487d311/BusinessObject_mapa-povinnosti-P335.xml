@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upozornit osobu pověřenou k provádění atestací na možnost odnětí pověření při neplnění povinností"
+    id="mapa-povinnosti-P335"
+    documentation="Přestane-li pověřená osoba plnit povinnosti stanovené tímto zákonem, Ministerstvo vnitra ji písemně upozorní na možnost odnětí pověření a zároveň ji vyzve, aby bez zbytečného odkladu zjednala nápravu. Nezjedná-li pověřená osoba ani na základě upozornění ministerstva nápravu, ministerstvo jí pověření odejme.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 12 odst. 1 zákona 250/2017"/>
+</archimate:BusinessObject>

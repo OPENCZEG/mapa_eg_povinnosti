@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Povinnost vést Jmenný rejstřík"
+    id="mapa-povinnosti-P406"
+    documentation="Zákon 499/2004 udává původcům vést v komponentě Jmenný rejstřík údaje o subjektech a vazbu dokumentů, které se subjektů týkají. Primárním účelem je zdroj údajů o tom, v jakých dokumentech se vyskytují osobní údaje subjektu, což je potřebné pro GDPR.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 63 odst. 4 až 8 zákona 499/2004"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout údaje z Registru obyvatel a Registru práv a povinností na základě ověřené plné moci"
+    id="mapa-povinnosti-P805"
+    documentation="Za subjekt údajů může požádat o poskytnutí údajů zmocněnec na základě zvláštní plné moci s úředně ověřeným podpisem zmocnitele; údaje se poskytnou zmocněnci.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 58 odst. 10 zákona 111/2009"/>
+</archimate:BusinessObject>

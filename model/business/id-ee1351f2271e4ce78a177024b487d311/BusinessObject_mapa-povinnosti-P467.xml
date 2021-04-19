@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Považovat výstup z autorizované konverze za platný dokument"
+    id="mapa-povinnosti-P467"
+    documentation="Má-li být podle jiného právního předpisu předložen dokument v listinné podobě správnímu orgánu, nebo soudu anebo jinému státnímu orgánu, zejména aby byl užit jako podklad pro vydání rozhodnutí, je tato povinnost splněna předložením jeho výstupu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 22 odst. 3 zákona 300/2008"/>
+</archimate:BusinessObject>

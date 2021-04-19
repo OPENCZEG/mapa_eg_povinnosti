@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zveřejnit a zpřístupnit údaje Registru územní identifikace"
+    id="mapa-povinnosti-P810"
+    documentation="Registr územní identifikace je veřejně přístupný způsobem umožňujícím dálkový přístup. Údaje z tohoto registru se poskytují v elektronické podobě, včetně vytěžování jeho obsahu; na nosičích dat se poskytují za úplatu, nejedná-li se o údaje pro tvorbu územně analytických podkladů. Vydávání výpisů, včetně ověřených výstupů z registru územní identifikace podle jiného právního předpisu tím není dotčeno. Záznamy o využívání údajů registru územní identifikace a informačního systému územní identifikace se neposkytují.">
+  <properties
+      key="Určuje"
+      value="§ 62 odst. 1 zákona 111/2009"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

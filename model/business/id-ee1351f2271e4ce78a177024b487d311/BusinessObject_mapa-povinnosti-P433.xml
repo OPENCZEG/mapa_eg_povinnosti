@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digitalizovat dokumenty při příjmu"
+    id="mapa-povinnosti-P433"
+    documentation="Veřejnoprávní původci, kteří vykonávají spisovou službu v elektronické podobě mají podle vyhlášky 259/2012 povinnost (zpravidla) digitalizovat doručené analogové dokumenty a zpracovávat je jako digitální s komponentami. To zajistí buď [Autorizovaná konverze] nebo [Jiná konverze]. Souvisí se službou [Konverze dokumentu].">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 6 odst. 2 vyhlášky 259/2012"/>
+</archimate:BusinessObject>

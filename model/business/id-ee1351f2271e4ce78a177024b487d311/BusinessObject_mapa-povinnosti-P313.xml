@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést seznam certifikátů, na jejichž základě kvalifikovaní poskytovatelé služeb vytvářejících důvěru podepisují vydané kvalifikované certifikáty nebo vydaná kvalifikovaná elektronická časová razítka."
+    id="mapa-povinnosti-P313"
+    documentation="Ministerstvo vnitra vede seznam certifikátů, na jejichž základě kvalifikovaní poskytovatelé služeb vytvářejících důvěru podepisují zaručeným elektronickým podpisem nebo pečetí zaručenou elektronickou pečetí vydané kvalifikované certifikáty nebo vydaná kvalifikovaná elektronická časová razítka. Seznam certifikátů ministerstvo zveřejňuje způsobem umožňujícím dálkový přístup.">
+  <properties
+      key="Určuje"
+      value="§ 13 odst. 4 zákona 297/2016"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

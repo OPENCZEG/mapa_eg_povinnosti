@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uvést IK OVS do souladu s IKČR"
+    id="mapa-povinnosti-P239"
+    documentation="Orgány veřejné správy uvedou své informační koncepce do souladu s informační koncepcí České republiky podle § 5a odst. 1 zákona č. 365/2000 Sb., ve znění účinném ode dne nabytí účinnosti tohoto zákona, do 24 měsíců ode dne jejího schválení vládou. Tedy do října 2019.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="Zákon 365/2000, Čl 2 zákona 104/2017"/>
+</archimate:BusinessObject>

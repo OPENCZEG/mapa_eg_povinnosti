@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Poskytnout údaje z ROB a RPP na kontaktním místě veřejné správy"
+    id="mapa-povinnosti-P804"
+    documentation="O poskytnutí údajů z registru obyvatel a registru práv a povinností může subjekt údajů požádat osobně u kontaktního místa veřejné správy, u kteréhokoli obecního úřadu obce s rozšířenou působností nebo krajského úřadu a v případě údajů z registru obyvatel také u Ministerstva vnitra; subjekt údajů sdělí rozsah požadovaných údajů. Subjekt údajů provede svoji identifikaci pomocí elektronicky čitelného identifikačního dokladu a autentizuje se pomocí bezpečnostního osobního kódu, má-li ho zadán a je-li to technicky umožněno.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 58 odst. 5 zákona 111/2009"/>
+</archimate:BusinessObject>

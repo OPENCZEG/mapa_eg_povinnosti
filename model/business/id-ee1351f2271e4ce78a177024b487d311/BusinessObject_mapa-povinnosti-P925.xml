@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zajistit aktualizaci zápisu právní skutečnosti do Registru práv a povinností"
+    id="mapa-povinnosti-P925"
+    documentation="Příslušný orgán veřejné moci průběžně aktualizuje zápis práva, povinnosti nebo právní skutečnosti; zjistí-li rozpor mezi zápisem podle odstavců 1 až 3 a skutečným stavem, odstraní jej prostřednictvím Ministerstva vnitra bez zbytečného odkladu.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 8 odst. 3 zákona 12/2020"/>
+</archimate:BusinessObject>

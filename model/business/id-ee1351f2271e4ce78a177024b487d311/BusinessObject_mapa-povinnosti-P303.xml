@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uchovávat údaje na základě kterých byla ověřena totožnost žadatele o vydání kvalifikovaného certifikátu"
+    id="mapa-povinnosti-P303"
+    documentation="Po uplynutí doby 10 let od vydání dokumentů souvisejících s vydáváním kvalifikovaných certifikátů a kvalifikovaných elektronických časových razítek kvalifikovaný poskytovatel služeb vytvářejících důvěru uchovává po dobu následujících 15 let údaje, na základě kterých byla ověřena totožnost žadatele o vydání kvalifikovaného certifikátu pro elektronické podpisy nebo elektronické pečetě nebo totožnost fyzické osoby oprávněné jednat za právnickou osobu žádající o vydání kvalifikovaného certifikátu pro elektronickou pečeť.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 3 odst. 2 zákona 297/2016"/>
+</archimate:BusinessObject>

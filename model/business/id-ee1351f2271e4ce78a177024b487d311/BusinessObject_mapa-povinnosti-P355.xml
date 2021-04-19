@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vyrozumět správce národního bodu o umožnění prokázání totožnosti s využitím elektronické identifikace"
+    id="mapa-povinnosti-P355"
+    documentation="Ten, kdo umožňuje prokázání totožnosti, které vyžaduje právní předpis nebo výkon působnosti, s využitím elektronické identifikace, vyrozumí o této skutečnosti správce národního bodu, a to bez zbytečného odkladu poté, co nastala. Kvalifikovaný poskytovatel ve vyrozumění uvede on-line službu nebo jinou činnost, při nichž prokázání totožnosti s využitím elektronické identifikace umožňuje, a úroveň záruky prostředku pro elektronickou identifikaci, kterou při prokázání totožnosti s využitím elektronické identifikace požaduje. Vyrozumění se činí prostřednictvím elektronické aplikace spravované správcem národního bodu.">
+  <properties
+      key="Určuje"
+      value="§ 18 odst. 1 a 3 zákona 250/2017"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

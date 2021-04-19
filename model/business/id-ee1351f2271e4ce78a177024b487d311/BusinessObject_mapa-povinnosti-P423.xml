@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prověřit právní platnost dokumentu či úkonu doručeného datovou schránkou"
+    id="mapa-povinnosti-P423"
+    documentation="Příjemcům datové zprávy plynou obecné povinnosti související s právní platností doručovaných dokumentů a zpráv. Od orgánů veřejné moci se postupuje podle příslušných ustanovení zákona 297/2016. Od soukromoprávních subjektů se postupuje podle ustanovení § 18 odst. 2 zákona 300/2008.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="zákon 499/2004, zákon 297/2016 a zákon 300/2008"/>
+</archimate:BusinessObject>

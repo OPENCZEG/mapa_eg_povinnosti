@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vést Rejstřík informačních systémů veřejné správy"
+    id="mapa-povinnosti-P777"
+    documentation="Ministerstvo vnitra vede v informačním systému registru práv a povinností rejstřík informačních systémů veřejné správy. V rejstříku informačních systémů veřejné správy jsou vedeny údaje podle § 51 odst. 1 písm. m).">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 52c odst. 1 zákona 111/2009"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informovat Ministerstvo vnitra o auditorech za účelem zřízení datových schránek"
+    id="mapa-povinnosti-P452"
+    documentation="Komora auditorů České republiky bezodkladně informuje Ministerstvo vnitra o zápisu osoby do rejstříku auditorů, o údajích vedených o osobě v rejstříku auditorů nezbytně nutných pro zřízení datové schránky a jejich změnách a o zániku oprávnění k výkonu auditorské činnosti této osoby.">
+  <properties
+      key="Určuje"
+      value="§ 15 odst. 2 zákona 300/2008"/>
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+</archimate:BusinessObject>

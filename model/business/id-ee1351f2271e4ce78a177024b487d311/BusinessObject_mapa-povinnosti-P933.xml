@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zaslat informaci o končící platnosti průkazu"
+    id="mapa-povinnosti-P933"
+    documentation="Uživatel služby má právo na poskytnutí informace o končící platnosti občanského průkazu, cestovního dokladu nebo řidičského průkazu; informaci zasílá orgán veřejné moci, který ho vydal, nejpozději 30 dnů před uplynutím jeho platnosti do datové schránky.">
+  <properties
+      key="Stereotype"
+      value="Povinnost"/>
+  <properties
+      key="Určuje"
+      value="§ 11 odst. 2 zákona 12/2020"/>
+</archimate:BusinessObject>
